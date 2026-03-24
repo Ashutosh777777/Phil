@@ -1,0 +1,7 @@
+pymupdf
+langchain
+langchain-openai
+qdrant-client
+openai
+python-dotenv
+tqdm
