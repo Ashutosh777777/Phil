@@ -1,0 +1,9 @@
+file '/mnt/d/AI_Projects/GH/Phil/video_output/frames/frame_000.png'
+duration 31.968
+file '/mnt/d/AI_Projects/GH/Phil/video_output/frames/frame_001.png'
+duration 37.2
+file '/mnt/d/AI_Projects/GH/Phil/video_output/frames/frame_002.png'
+duration 36.888
+file '/mnt/d/AI_Projects/GH/Phil/video_output/frames/frame_003.png'
+duration 41.424
+file '/mnt/d/AI_Projects/GH/Phil/video_output/frames/frame_003.png'
