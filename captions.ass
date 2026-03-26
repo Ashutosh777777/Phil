@@ -1,0 +1,492 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Kafka,Arial,52,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,80,80,60,1
+Style: Nietzsche,Arial,52,&H0000FFFF,&H0000FFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,1,2,80,80,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.34,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe
+Dialogue: 0,0:00:00.34,0:00:00.66,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden
+Dialogue: 0,0:00:00.66,0:00:00.88,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of
+Dialogue: 0,0:00:00.88,0:00:01.12,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom
+Dialogue: 0,0:00:01.12,0:00:01.36,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is
+Dialogue: 0,0:00:01.36,0:00:01.50,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a
+Dialogue: 0,0:00:01.50,0:00:01.76,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a crushing
+Dialogue: 0,0:00:01.76,0:00:02.27,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a crushing weight,
+Dialogue: 0,0:00:02.27,0:00:02.39,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a crushing weight, is
+Dialogue: 0,0:00:02.39,0:00:02.54,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a crushing weight, is it
+Dialogue: 0,0:00:02.54,0:00:03.04,Kafka,,0,0,0,,{\an2}Franz Kafka\Nburden of freedom is a crushing weight, is it not,
+Dialogue: 0,0:00:03.04,0:00:03.22,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof freedom is a crushing weight, is it not, for
+Dialogue: 0,0:00:03.22,0:00:03.29,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom is a crushing weight, is it not, for it
+Dialogue: 0,0:00:03.29,0:00:03.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis a crushing weight, is it not, for it leaves
+Dialogue: 0,0:00:03.48,0:00:03.72,Kafka,,0,0,0,,{\an2}Franz Kafka\Na crushing weight, is it not, for it leaves us
+Dialogue: 0,0:00:03.72,0:00:03.89,Kafka,,0,0,0,,{\an2}Franz Kafka\Ncrushing weight, is it not, for it leaves us with
+Dialogue: 0,0:00:03.89,0:00:04.13,Kafka,,0,0,0,,{\an2}Franz Kafka\Nweight, is it not, for it leaves us with the
+Dialogue: 0,0:00:04.13,0:00:04.62,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis it not, for it leaves us with the responsibility
+Dialogue: 0,0:00:04.62,0:00:05.04,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit not, for it leaves us with the responsibility of
+Dialogue: 0,0:00:05.04,0:00:05.32,Kafka,,0,0,0,,{\an2}Franz Kafka\Nnot, for it leaves us with the responsibility of choice
+Dialogue: 0,0:00:05.32,0:00:05.51,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfor it leaves us with the responsibility of choice and
+Dialogue: 0,0:00:05.51,0:00:05.63,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit leaves us with the responsibility of choice and the
+Dialogue: 0,0:00:05.63,0:00:05.87,Kafka,,0,0,0,,{\an2}Franz Kafka\Nleaves us with the responsibility of choice and the terror
+Dialogue: 0,0:00:05.87,0:00:06.09,Kafka,,0,0,0,,{\an2}Franz Kafka\Nus with the responsibility of choice and the terror of
+Dialogue: 0,0:00:06.09,0:00:07.92,Kafka,,0,0,0,,{\an2}Franz Kafka\Nwith the responsibility of choice and the terror of uncertainty.
+Dialogue: 0,0:00:07.92,0:00:08.17,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe responsibility of choice and the terror of uncertainty. Gregor's
+Dialogue: 0,0:00:08.17,0:00:08.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nresponsibility of choice and the terror of uncertainty. Gregor's metamorphosis
+Dialogue: 0,0:00:08.82,0:00:09.09,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof choice and the terror of uncertainty. Gregor's metamorphosis has
+Dialogue: 0,0:00:09.09,0:00:09.27,Kafka,,0,0,0,,{\an2}Franz Kafka\Nchoice and the terror of uncertainty. Gregor's metamorphosis has freed
+Dialogue: 0,0:00:09.27,0:00:09.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand the terror of uncertainty. Gregor's metamorphosis has freed him
+Dialogue: 0,0:00:09.46,0:00:09.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe terror of uncertainty. Gregor's metamorphosis has freed him from
+Dialogue: 0,0:00:09.64,0:00:09.83,Kafka,,0,0,0,,{\an2}Franz Kafka\Nterror of uncertainty. Gregor's metamorphosis has freed him from the
+Dialogue: 0,0:00:09.83,0:00:10.17,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof uncertainty. Gregor's metamorphosis has freed him from the shackles
+Dialogue: 0,0:00:10.17,0:00:10.33,Kafka,,0,0,0,,{\an2}Franz Kafka\Nuncertainty. Gregor's metamorphosis has freed him from the shackles of
+Dialogue: 0,0:00:10.33,0:00:10.51,Kafka,,0,0,0,,{\an2}Franz Kafka\NGregor's metamorphosis has freed him from the shackles of his
+Dialogue: 0,0:00:10.51,0:00:10.80,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmetamorphosis has freed him from the shackles of his mundane
+Dialogue: 0,0:00:10.80,0:00:11.40,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhas freed him from the shackles of his mundane life,
+Dialogue: 0,0:00:11.40,0:00:11.50,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreed him from the shackles of his mundane life, yet
+Dialogue: 0,0:00:11.50,0:00:11.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhim from the shackles of his mundane life, yet he
+Dialogue: 0,0:00:11.64,0:00:11.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfrom the shackles of his mundane life, yet he is
+Dialogue: 0,0:00:11.82,0:00:12.01,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe shackles of his mundane life, yet he is now
+Dialogue: 0,0:00:12.01,0:00:12.30,Kafka,,0,0,0,,{\an2}Franz Kafka\Nshackles of his mundane life, yet he is now trapped
+Dialogue: 0,0:00:12.30,0:00:12.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof his mundane life, yet he is now trapped in
+Dialogue: 0,0:00:12.48,0:00:12.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhis mundane life, yet he is now trapped in a
+Dialogue: 0,0:00:12.64,0:00:12.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmundane life, yet he is now trapped in a prison
+Dialogue: 0,0:00:12.82,0:00:13.08,Kafka,,0,0,0,,{\an2}Franz Kafka\Nlife, yet he is now trapped in a prison of
+Dialogue: 0,0:00:13.08,0:00:13.43,Kafka,,0,0,0,,{\an2}Franz Kafka\Nyet he is now trapped in a prison of isolation
+Dialogue: 0,0:00:13.43,0:00:13.83,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhe is now trapped in a prison of isolation and
+Dialogue: 0,0:00:13.83,0:00:15.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis now trapped in a prison of isolation and incomprehension.
+Dialogue: 0,0:00:15.64,0:00:15.75,Kafka,,0,0,0,,{\an2}Franz Kafka\Nnow trapped in a prison of isolation and incomprehension. In
+Dialogue: 0,0:00:15.75,0:00:15.98,Kafka,,0,0,0,,{\an2}Franz Kafka\Ntrapped in a prison of isolation and incomprehension. In this
+Dialogue: 0,0:00:15.98,0:00:16.51,Kafka,,0,0,0,,{\an2}Franz Kafka\Nin a prison of isolation and incomprehension. In this state,
+Dialogue: 0,0:00:16.51,0:00:16.55,Kafka,,0,0,0,,{\an2}Franz Kafka\Na prison of isolation and incomprehension. In this state, he
+Dialogue: 0,0:00:16.55,0:00:16.71,Kafka,,0,0,0,,{\an2}Franz Kafka\Nprison of isolation and incomprehension. In this state, he is
+Dialogue: 0,0:00:16.71,0:00:16.96,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof isolation and incomprehension. In this state, he is forced
+Dialogue: 0,0:00:16.96,0:00:17.16,Kafka,,0,0,0,,{\an2}Franz Kafka\Nisolation and incomprehension. In this state, he is forced to
+Dialogue: 0,0:00:17.16,0:00:17.44,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand incomprehension. In this state, he is forced to confront
+Dialogue: 0,0:00:17.44,0:00:17.69,Kafka,,0,0,0,,{\an2}Franz Kafka\Nincomprehension. In this state, he is forced to confront the
+Dialogue: 0,0:00:17.69,0:00:17.92,Kafka,,0,0,0,,{\an2}Franz Kafka\NIn this state, he is forced to confront the abyss
+Dialogue: 0,0:00:17.92,0:00:18.12,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthis state, he is forced to confront the abyss of
+Dialogue: 0,0:00:18.12,0:00:18.30,Kafka,,0,0,0,,{\an2}Franz Kafka\Nstate, he is forced to confront the abyss of his
+Dialogue: 0,0:00:18.30,0:00:18.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhe is forced to confront the abyss of his own
+Dialogue: 0,0:00:18.46,0:00:19.26,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis forced to confront the abyss of his own existence,
+Dialogue: 0,0:00:19.26,0:00:19.35,Kafka,,0,0,0,,{\an2}Franz Kafka\Nforced to confront the abyss of his own existence, and
+Dialogue: 0,0:00:19.35,0:00:19.55,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto confront the abyss of his own existence, and the
+Dialogue: 0,0:00:19.55,0:00:19.76,Kafka,,0,0,0,,{\an2}Franz Kafka\Nconfront the abyss of his own existence, and the freedom
+Dialogue: 0,0:00:19.76,0:00:19.96,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe abyss of his own existence, and the freedom to
+Dialogue: 0,0:00:19.96,0:00:20.12,Kafka,,0,0,0,,{\an2}Franz Kafka\Nabyss of his own existence, and the freedom to make
+Dialogue: 0,0:00:20.12,0:00:20.37,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof his own existence, and the freedom to make his
+Dialogue: 0,0:00:20.37,0:00:20.53,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhis own existence, and the freedom to make his own
+Dialogue: 0,0:00:20.53,0:00:20.92,Kafka,,0,0,0,,{\an2}Franz Kafka\Nown existence, and the freedom to make his own decisions
+Dialogue: 0,0:00:20.92,0:00:21.26,Kafka,,0,0,0,,{\an2}Franz Kafka\Nexistence, and the freedom to make his own decisions as
+Dialogue: 0,0:00:21.26,0:00:21.44,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand the freedom to make his own decisions as a
+Dialogue: 0,0:00:21.44,0:00:21.67,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe freedom to make his own decisions as a constant
+Dialogue: 0,0:00:21.67,0:00:22.10,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom to make his own decisions as a constant reminder
+Dialogue: 0,0:00:22.10,0:00:22.33,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto make his own decisions as a constant reminder of
+Dialogue: 0,0:00:22.33,0:00:22.53,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmake his own decisions as a constant reminder of his
+Dialogue: 0,0:00:22.53,0:00:24.23,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhis own decisions as a constant reminder of his powerlessness.
+Dialogue: 0,0:00:24.23,0:00:25.01,Kafka,,0,0,0,,{\an2}Franz Kafka\Nown decisions as a constant reminder of his powerlessness. Ultimately,
+Dialogue: 0,0:00:25.01,0:00:25.14,Kafka,,0,0,0,,{\an2}Franz Kafka\Ndecisions as a constant reminder of his powerlessness. Ultimately, it
+Dialogue: 0,0:00:25.14,0:00:25.32,Kafka,,0,0,0,,{\an2}Franz Kafka\Nas a constant reminder of his powerlessness. Ultimately, it is
+Dialogue: 0,0:00:25.32,0:00:25.57,Kafka,,0,0,0,,{\an2}Franz Kafka\Na constant reminder of his powerlessness. Ultimately, it is this
+Dialogue: 0,0:00:25.57,0:00:25.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nconstant reminder of his powerlessness. Ultimately, it is this burden
+Dialogue: 0,0:00:25.82,0:00:26.05,Kafka,,0,0,0,,{\an2}Franz Kafka\Nreminder of his powerlessness. Ultimately, it is this burden of
+Dialogue: 0,0:00:26.05,0:00:26.30,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof his powerlessness. Ultimately, it is this burden of freedom
+Dialogue: 0,0:00:26.30,0:00:26.60,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhis powerlessness. Ultimately, it is this burden of freedom that
+Dialogue: 0,0:00:26.60,0:00:26.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Npowerlessness. Ultimately, it is this burden of freedom that drives
+Dialogue: 0,0:00:26.82,0:00:27.03,Kafka,,0,0,0,,{\an2}Franz Kafka\NUltimately, it is this burden of freedom that drives him
+Dialogue: 0,0:00:27.03,0:00:27.12,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit is this burden of freedom that drives him to
+Dialogue: 0,0:00:27.12,0:00:27.30,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis this burden of freedom that drives him to seek
+Dialogue: 0,0:00:27.30,0:00:27.98,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthis burden of freedom that drives him to seek escape,
+Dialogue: 0,0:00:27.98,0:00:28.12,Kafka,,0,0,0,,{\an2}Franz Kafka\Nburden of freedom that drives him to seek escape, to
+Dialogue: 0,0:00:28.12,0:00:28.33,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof freedom that drives him to seek escape, to yearn
+Dialogue: 0,0:00:28.33,0:00:28.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom that drives him to seek escape, to yearn for
+Dialogue: 0,0:00:28.48,0:00:28.66,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthat drives him to seek escape, to yearn for a
+Dialogue: 0,0:00:28.66,0:00:28.83,Kafka,,0,0,0,,{\an2}Franz Kafka\Ndrives him to seek escape, to yearn for a release
+Dialogue: 0,0:00:28.83,0:00:29.10,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhim to seek escape, to yearn for a release from
+Dialogue: 0,0:00:29.10,0:00:29.23,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto seek escape, to yearn for a release from the
+Dialogue: 0,0:00:29.23,0:00:29.80,Kafka,,0,0,0,,{\an2}Franz Kafka\Nseek escape, to yearn for a release from the suffocating
+Dialogue: 0,0:00:29.80,0:00:30.03,Kafka,,0,0,0,,{\an2}Franz Kafka\Nescape, to yearn for a release from the suffocating grip
+Dialogue: 0,0:00:30.03,0:00:30.26,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto yearn for a release from the suffocating grip of
+Dialogue: 0,0:00:30.26,0:00:30.42,Kafka,,0,0,0,,{\an2}Franz Kafka\Nyearn for a release from the suffocating grip of his
+Dialogue: 0,0:00:30.42,0:00:30.57,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfor a release from the suffocating grip of his own
+Dialogue: 0,0:00:30.57,0:00:30.94,Kafka,,0,0,0,,{\an2}Franz Kafka\Na release from the suffocating grip of his own autonomy.
+Dialogue: 0,0:00:32.56,0:00:32.98,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe
+Dialogue: 0,0:00:32.98,0:00:33.22,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden
+Dialogue: 0,0:00:33.22,0:00:33.48,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of
+Dialogue: 0,0:00:33.48,0:00:33.66,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom
+Dialogue: 0,0:00:33.66,0:00:33.96,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is
+Dialogue: 0,0:00:33.96,0:00:34.10,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a
+Dialogue: 0,0:00:34.10,0:00:34.20,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight
+Dialogue: 0,0:00:34.20,0:00:34.46,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that
+Dialogue: 0,0:00:34.46,0:00:34.66,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that only
+Dialogue: 0,0:00:34.66,0:00:34.86,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that only the
+Dialogue: 0,0:00:34.86,0:00:35.22,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nburden of freedom is a weight that only the strongest
+Dialogue: 0,0:00:35.22,0:00:35.54,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof freedom is a weight that only the strongest can
+Dialogue: 0,0:00:35.54,0:00:35.88,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom is a weight that only the strongest can bear
+Dialogue: 0,0:00:35.88,0:00:36.08,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis a weight that only the strongest can bear for
+Dialogue: 0,0:00:36.08,0:00:36.26,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na weight that only the strongest can bear for it
+Dialogue: 0,0:00:36.26,0:00:36.52,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nweight that only the strongest can bear for it demands
+Dialogue: 0,0:00:36.52,0:00:36.82,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthat only the strongest can bear for it demands the
+Dialogue: 0,0:00:36.82,0:00:37.08,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nonly the strongest can bear for it demands the constant
+Dialogue: 0,0:00:37.08,0:00:37.52,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe strongest can bear for it demands the constant overcoming
+Dialogue: 0,0:00:37.52,0:00:37.84,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstrongest can bear for it demands the constant overcoming of
+Dialogue: 0,0:00:37.84,0:00:38.20,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncan bear for it demands the constant overcoming of oneself
+Dialogue: 0,0:00:38.20,0:00:38.48,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbear for it demands the constant overcoming of oneself and
+Dialogue: 0,0:00:38.48,0:00:38.64,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfor it demands the constant overcoming of oneself and the
+Dialogue: 0,0:00:38.64,0:00:38.80,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nit demands the constant overcoming of oneself and the shedding
+Dialogue: 0,0:00:38.80,0:00:39.00,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndemands the constant overcoming of oneself and the shedding of
+Dialogue: 0,0:00:39.00,0:00:39.16,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe constant overcoming of oneself and the shedding of the
+Dialogue: 0,0:00:39.16,0:00:39.38,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nconstant overcoming of oneself and the shedding of the chains
+Dialogue: 0,0:00:39.38,0:00:39.66,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Novercoming of oneself and the shedding of the chains of
+Dialogue: 0,0:00:39.66,0:00:40.06,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof oneself and the shedding of the chains of conventional
+Dialogue: 0,0:00:40.06,0:00:41.64,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Noneself and the shedding of the chains of conventional morality.
+Dialogue: 0,0:00:41.64,0:00:41.74,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand the shedding of the chains of conventional morality. To
+Dialogue: 0,0:00:41.74,0:00:41.92,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe shedding of the chains of conventional morality. To be
+Dialogue: 0,0:00:41.92,0:00:42.16,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nshedding of the chains of conventional morality. To be free
+Dialogue: 0,0:00:42.16,0:00:42.40,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof the chains of conventional morality. To be free is
+Dialogue: 0,0:00:42.40,0:00:42.58,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe chains of conventional morality. To be free is not
+Dialogue: 0,0:00:42.58,0:00:42.68,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nchains of conventional morality. To be free is not to
+Dialogue: 0,0:00:42.68,0:00:42.92,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof conventional morality. To be free is not to be
+Dialogue: 0,0:00:42.92,0:00:43.60,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nconventional morality. To be free is not to be unencumbered
+Dialogue: 0,0:00:43.60,0:00:43.84,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nmorality. To be free is not to be unencumbered but
+Dialogue: 0,0:00:43.84,0:00:43.92,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NTo be free is not to be unencumbered but to
+Dialogue: 0,0:00:43.92,0:00:44.10,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe free is not to be unencumbered but to be
+Dialogue: 0,0:00:44.10,0:00:44.40,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfree is not to be unencumbered but to be burdened
+Dialogue: 0,0:00:44.40,0:00:44.60,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis not to be unencumbered but to be burdened with
+Dialogue: 0,0:00:44.60,0:00:44.86,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nnot to be unencumbered but to be burdened with the
+Dialogue: 0,0:00:44.86,0:00:45.28,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto be unencumbered but to be burdened with the responsibility
+Dialogue: 0,0:00:45.28,0:00:45.78,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe unencumbered but to be burdened with the responsibility of
+Dialogue: 0,0:00:45.78,0:00:46.10,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nunencumbered but to be burdened with the responsibility of creating
+Dialogue: 0,0:00:46.10,0:00:46.62,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbut to be burdened with the responsibility of creating one's
+Dialogue: 0,0:00:46.62,0:00:46.82,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto be burdened with the responsibility of creating one's own
+Dialogue: 0,0:00:46.82,0:00:47.18,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe burdened with the responsibility of creating one's own values
+Dialogue: 0,0:00:47.18,0:00:47.42,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nburdened with the responsibility of creating one's own values and
+Dialogue: 0,0:00:47.42,0:00:47.86,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwith the responsibility of creating one's own values and purpose
+Dialogue: 0,0:00:47.86,0:00:48.18,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe responsibility of creating one's own values and purpose and
+Dialogue: 0,0:00:48.18,0:00:48.30,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nresponsibility of creating one's own values and purpose and to
+Dialogue: 0,0:00:48.30,0:00:48.50,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof creating one's own values and purpose and to be
+Dialogue: 0,0:00:48.50,0:00:48.66,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncreating one's own values and purpose and to be willing
+Dialogue: 0,0:00:48.66,0:00:48.90,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\None's own values and purpose and to be willing to
+Dialogue: 0,0:00:48.90,0:00:49.10,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nown values and purpose and to be willing to dance
+Dialogue: 0,0:00:49.10,0:00:49.28,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nvalues and purpose and to be willing to dance with
+Dialogue: 0,0:00:49.28,0:00:49.50,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand purpose and to be willing to dance with the
+Dialogue: 0,0:00:49.50,0:00:49.62,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Npurpose and to be willing to dance with the void
+Dialogue: 0,0:00:49.62,0:00:49.90,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand to be willing to dance with the void that
+Dialogue: 0,0:00:49.90,0:00:50.12,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto be willing to dance with the void that stares
+Dialogue: 0,0:00:50.12,0:00:50.40,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe willing to dance with the void that stares back
+Dialogue: 0,0:00:50.40,0:00:50.56,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwilling to dance with the void that stares back at
+Dialogue: 0,0:00:50.56,0:00:51.74,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto dance with the void that stares back at us.
+Dialogue: 0,0:00:51.74,0:00:51.94,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndance with the void that stares back at us. The
+Dialogue: 0,0:00:51.94,0:00:52.14,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwith the void that stares back at us. The spirit
+Dialogue: 0,0:00:52.14,0:00:52.38,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe void that stares back at us. The spirit of
+Dialogue: 0,0:00:52.38,0:00:52.72,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nvoid that stares back at us. The spirit of gravity
+Dialogue: 0,0:00:52.72,0:00:53.08,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthat stares back at us. The spirit of gravity seeks
+Dialogue: 0,0:00:53.08,0:00:53.28,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstares back at us. The spirit of gravity seeks to
+Dialogue: 0,0:00:53.28,0:00:53.44,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nback at us. The spirit of gravity seeks to weigh
+Dialogue: 0,0:00:53.44,0:00:53.64,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nat us. The spirit of gravity seeks to weigh us
+Dialogue: 0,0:00:53.64,0:00:53.90,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nus. The spirit of gravity seeks to weigh us down
+Dialogue: 0,0:00:53.90,0:00:54.04,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe spirit of gravity seeks to weigh us down with
+Dialogue: 0,0:00:54.04,0:00:54.22,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nspirit of gravity seeks to weigh us down with the
+Dialogue: 0,0:00:54.22,0:00:54.36,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof gravity seeks to weigh us down with the lead
+Dialogue: 0,0:00:54.36,0:00:54.46,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ngravity seeks to weigh us down with the lead and
+Dialogue: 0,0:00:54.46,0:00:54.70,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nseeks to weigh us down with the lead and chains
+Dialogue: 0,0:00:54.70,0:00:54.86,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto weigh us down with the lead and chains of
+Dialogue: 0,0:00:54.86,0:00:55.16,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nweigh us down with the lead and chains of tradition
+Dialogue: 0,0:00:55.16,0:00:55.44,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nus down with the lead and chains of tradition and
+Dialogue: 0,0:00:55.44,0:00:56.06,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndown with the lead and chains of tradition and conformity
+Dialogue: 0,0:00:56.06,0:00:56.32,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwith the lead and chains of tradition and conformity but
+Dialogue: 0,0:00:56.32,0:00:56.52,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe lead and chains of tradition and conformity but the
+Dialogue: 0,0:00:56.52,0:00:56.72,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nlead and chains of tradition and conformity but the free
+Dialogue: 0,0:00:56.72,0:00:57.04,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand chains of tradition and conformity but the free spirit
+Dialogue: 0,0:00:57.04,0:00:57.28,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nchains of tradition and conformity but the free spirit must
+Dialogue: 0,0:00:57.28,0:00:57.60,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof tradition and conformity but the free spirit must resist
+Dialogue: 0,0:00:57.60,0:00:57.94,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ntradition and conformity but the free spirit must resist this
+Dialogue: 0,0:00:57.94,0:00:58.20,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand conformity but the free spirit must resist this force
+Dialogue: 0,0:00:58.20,0:00:58.46,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nconformity but the free spirit must resist this force and
+Dialogue: 0,0:00:58.46,0:00:58.74,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbut the free spirit must resist this force and instead
+Dialogue: 0,0:00:58.74,0:00:59.06,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe free spirit must resist this force and instead choose
+Dialogue: 0,0:00:59.06,0:00:59.20,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfree spirit must resist this force and instead choose to
+Dialogue: 0,0:00:59.20,0:00:59.52,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nspirit must resist this force and instead choose to create
+Dialogue: 0,0:00:59.52,0:00:59.78,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nmust resist this force and instead choose to create its
+Dialogue: 0,0:00:59.78,0:00:59.98,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nresist this force and instead choose to create its own
+Dialogue: 0,0:00:59.98,0:01:00.38,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthis force and instead choose to create its own path
+Dialogue: 0,0:01:00.38,0:01:00.94,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nforce and instead choose to create its own path to
+Dialogue: 0,0:01:00.94,0:01:02.40,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand instead choose to create its own path to freedom.
+Dialogue: 0,0:01:02.40,0:01:02.76,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ninstead choose to create its own path to freedom. In
+Dialogue: 0,0:01:02.76,0:01:02.96,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nchoose to create its own path to freedom. In this
+Dialogue: 0,0:01:02.96,0:01:03.68,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto create its own path to freedom. In this sense,
+Dialogue: 0,0:01:03.68,0:01:03.82,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncreate its own path to freedom. In this sense, freedom
+Dialogue: 0,0:01:03.82,0:01:04.10,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nits own path to freedom. In this sense, freedom is
+Dialogue: 0,0:01:04.10,0:01:04.34,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nown path to freedom. In this sense, freedom is not
+Dialogue: 0,0:01:04.34,0:01:04.42,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Npath to freedom. In this sense, freedom is not a
+Dialogue: 0,0:01:04.42,0:01:04.56,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto freedom. In this sense, freedom is not a state
+Dialogue: 0,0:01:04.56,0:01:04.78,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom. In this sense, freedom is not a state of
+Dialogue: 0,0:01:04.78,0:01:05.14,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NIn this sense, freedom is not a state of being
+Dialogue: 0,0:01:05.14,0:01:05.42,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthis sense, freedom is not a state of being but
+Dialogue: 0,0:01:05.42,0:01:05.54,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nsense, freedom is not a state of being but a
+Dialogue: 0,0:01:05.54,0:01:05.92,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom is not a state of being but a perpetual
+Dialogue: 0,0:01:05.92,0:01:06.38,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis not a state of being but a perpetual becoming
+Dialogue: 0,0:01:06.38,0:01:06.80,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nnot a state of being but a perpetual becoming a
+Dialogue: 0,0:01:06.80,0:01:07.18,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na state of being but a perpetual becoming a constant
+Dialogue: 0,0:01:07.18,0:01:07.56,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstate of being but a perpetual becoming a constant striving
+Dialogue: 0,0:01:07.56,0:01:07.92,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof being but a perpetual becoming a constant striving to
+Dialogue: 0,0:01:07.92,0:01:08.20,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbeing but a perpetual becoming a constant striving to overcome
+Dialogue: 0,0:01:08.20,0:01:08.40,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbut a perpetual becoming a constant striving to overcome and
+Dialogue: 0,0:01:08.40,0:01:08.52,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na perpetual becoming a constant striving to overcome and to
+Dialogue: 0,0:01:08.52,0:01:08.86,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nperpetual becoming a constant striving to overcome and to create.
+Dialogue: 0,0:01:10.36,0:01:10.72,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe
+Dialogue: 0,0:01:10.72,0:01:11.00,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden
+Dialogue: 0,0:01:11.00,0:01:11.26,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of
+Dialogue: 0,0:01:11.26,0:01:11.48,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom
+Dialogue: 0,0:01:11.48,0:01:11.76,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is
+Dialogue: 0,0:01:11.76,0:01:11.88,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a
+Dialogue: 0,0:01:11.88,0:01:12.00,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a weight
+Dialogue: 0,0:01:12.00,0:01:12.26,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a weight that
+Dialogue: 0,0:01:12.26,0:01:12.66,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a weight that crushes
+Dialogue: 0,0:01:12.66,0:01:12.80,Kafka,,0,0,0,,{\an2}Franz Kafka\NThe burden of freedom is a weight that crushes the
+Dialogue: 0,0:01:12.80,0:01:13.62,Kafka,,0,0,0,,{\an2}Franz Kafka\Nburden of freedom is a weight that crushes the individual,
+Dialogue: 0,0:01:13.62,0:01:13.74,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof freedom is a weight that crushes the individual, for
+Dialogue: 0,0:01:13.74,0:01:13.88,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom is a weight that crushes the individual, for it
+Dialogue: 0,0:01:13.88,0:01:14.20,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis a weight that crushes the individual, for it forces
+Dialogue: 0,0:01:14.20,0:01:14.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Na weight that crushes the individual, for it forces us
+Dialogue: 0,0:01:14.46,0:01:14.66,Kafka,,0,0,0,,{\an2}Franz Kafka\Nweight that crushes the individual, for it forces us to
+Dialogue: 0,0:01:14.66,0:01:14.94,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthat crushes the individual, for it forces us to confront
+Dialogue: 0,0:01:14.94,0:01:15.18,Kafka,,0,0,0,,{\an2}Franz Kafka\Ncrushes the individual, for it forces us to confront the
+Dialogue: 0,0:01:15.18,0:01:15.42,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe individual, for it forces us to confront the abyss
+Dialogue: 0,0:01:15.42,0:01:15.66,Kafka,,0,0,0,,{\an2}Franz Kafka\Nindividual, for it forces us to confront the abyss of
+Dialogue: 0,0:01:15.66,0:01:15.80,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfor it forces us to confront the abyss of our
+Dialogue: 0,0:01:15.80,0:01:15.96,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit forces us to confront the abyss of our own
+Dialogue: 0,0:01:15.96,0:01:16.36,Kafka,,0,0,0,,{\an2}Franz Kafka\Nforces us to confront the abyss of our own existence
+Dialogue: 0,0:01:16.36,0:01:16.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nus to confront the abyss of our own existence and
+Dialogue: 0,0:01:16.64,0:01:16.80,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto confront the abyss of our own existence and the
+Dialogue: 0,0:01:16.80,0:01:17.50,Kafka,,0,0,0,,{\an2}Franz Kafka\Nconfront the abyss of our own existence and the meaninglessness
+Dialogue: 0,0:01:17.50,0:01:17.60,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe abyss of our own existence and the meaninglessness of
+Dialogue: 0,0:01:17.60,0:01:17.74,Kafka,,0,0,0,,{\an2}Franz Kafka\Nabyss of our own existence and the meaninglessness of our
+Dialogue: 0,0:01:17.74,0:01:19.32,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof our own existence and the meaninglessness of our choices.
+Dialogue: 0,0:01:19.32,0:01:19.70,Kafka,,0,0,0,,{\an2}Franz Kafka\Nour own existence and the meaninglessness of our choices. Gregor's
+Dialogue: 0,0:01:19.70,0:01:20.18,Kafka,,0,0,0,,{\an2}Franz Kafka\Nown existence and the meaninglessness of our choices. Gregor's transformation
+Dialogue: 0,0:01:20.18,0:01:20.54,Kafka,,0,0,0,,{\an2}Franz Kafka\Nexistence and the meaninglessness of our choices. Gregor's transformation has
+Dialogue: 0,0:01:20.54,0:01:20.72,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand the meaninglessness of our choices. Gregor's transformation has freed
+Dialogue: 0,0:01:20.72,0:01:20.90,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe meaninglessness of our choices. Gregor's transformation has freed him
+Dialogue: 0,0:01:20.90,0:01:21.06,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmeaninglessness of our choices. Gregor's transformation has freed him from
+Dialogue: 0,0:01:21.06,0:01:21.26,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof our choices. Gregor's transformation has freed him from the
+Dialogue: 0,0:01:21.26,0:01:21.60,Kafka,,0,0,0,,{\an2}Franz Kafka\Nour choices. Gregor's transformation has freed him from the shackles
+Dialogue: 0,0:01:21.60,0:01:21.74,Kafka,,0,0,0,,{\an2}Franz Kafka\Nchoices. Gregor's transformation has freed him from the shackles of
+Dialogue: 0,0:01:21.74,0:01:21.96,Kafka,,0,0,0,,{\an2}Franz Kafka\NGregor's transformation has freed him from the shackles of his
+Dialogue: 0,0:01:21.96,0:01:22.22,Kafka,,0,0,0,,{\an2}Franz Kafka\Ntransformation has freed him from the shackles of his mundane
+Dialogue: 0,0:01:22.22,0:01:22.84,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhas freed him from the shackles of his mundane life,
+Dialogue: 0,0:01:22.84,0:01:22.92,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreed him from the shackles of his mundane life, yet
+Dialogue: 0,0:01:22.92,0:01:23.06,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhim from the shackles of his mundane life, yet it
+Dialogue: 0,0:01:23.06,0:01:23.22,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfrom the shackles of his mundane life, yet it has
+Dialogue: 0,0:01:23.22,0:01:23.50,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe shackles of his mundane life, yet it has also
+Dialogue: 0,0:01:23.50,0:01:23.78,Kafka,,0,0,0,,{\an2}Franz Kafka\Nshackles of his mundane life, yet it has also condemned
+Dialogue: 0,0:01:23.78,0:01:24.06,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof his mundane life, yet it has also condemned him
+Dialogue: 0,0:01:24.06,0:01:24.18,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhis mundane life, yet it has also condemned him to
+Dialogue: 0,0:01:24.18,0:01:24.30,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmundane life, yet it has also condemned him to a
+Dialogue: 0,0:01:24.30,0:01:24.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nlife, yet it has also condemned him to a life
+Dialogue: 0,0:01:24.48,0:01:24.66,Kafka,,0,0,0,,{\an2}Franz Kafka\Nyet it has also condemned him to a life of
+Dialogue: 0,0:01:24.66,0:01:25.02,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit has also condemned him to a life of isolation
+Dialogue: 0,0:01:25.02,0:01:25.44,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhas also condemned him to a life of isolation and
+Dialogue: 0,0:01:25.44,0:01:26.22,Kafka,,0,0,0,,{\an2}Franz Kafka\Nalso condemned him to a life of isolation and loneliness,
+Dialogue: 0,0:01:26.22,0:01:26.40,Kafka,,0,0,0,,{\an2}Franz Kafka\Ncondemned him to a life of isolation and loneliness, highlighting
+Dialogue: 0,0:01:26.40,0:01:26.78,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhim to a life of isolation and loneliness, highlighting the
+Dialogue: 0,0:01:26.78,0:01:27.00,Kafka,,0,0,0,,{\an2}Franz Kafka\Nto a life of isolation and loneliness, highlighting the cruel
+Dialogue: 0,0:01:27.00,0:01:27.42,Kafka,,0,0,0,,{\an2}Franz Kafka\Na life of isolation and loneliness, highlighting the cruel paradox
+Dialogue: 0,0:01:27.42,0:01:27.64,Kafka,,0,0,0,,{\an2}Franz Kafka\Nlife of isolation and loneliness, highlighting the cruel paradox of
+Dialogue: 0,0:01:27.64,0:01:29.00,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof isolation and loneliness, highlighting the cruel paradox of freedom.
+Dialogue: 0,0:01:29.00,0:01:29.18,Kafka,,0,0,0,,{\an2}Franz Kafka\Nisolation and loneliness, highlighting the cruel paradox of freedom. In
+Dialogue: 0,0:01:29.18,0:01:29.42,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand loneliness, highlighting the cruel paradox of freedom. In this
+Dialogue: 0,0:01:29.42,0:01:29.94,Kafka,,0,0,0,,{\an2}Franz Kafka\Nloneliness, highlighting the cruel paradox of freedom. In this sense,
+Dialogue: 0,0:01:29.94,0:01:30.16,Kafka,,0,0,0,,{\an2}Franz Kafka\Nhighlighting the cruel paradox of freedom. In this sense, freedom
+Dialogue: 0,0:01:30.16,0:01:30.40,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe cruel paradox of freedom. In this sense, freedom is
+Dialogue: 0,0:01:30.40,0:01:30.58,Kafka,,0,0,0,,{\an2}Franz Kafka\Ncruel paradox of freedom. In this sense, freedom is not
+Dialogue: 0,0:01:30.58,0:01:30.72,Kafka,,0,0,0,,{\an2}Franz Kafka\Nparadox of freedom. In this sense, freedom is not a
+Dialogue: 0,0:01:30.72,0:01:31.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof freedom. In this sense, freedom is not a liberation,
+Dialogue: 0,0:01:31.48,0:01:31.58,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom. In this sense, freedom is not a liberation, but
+Dialogue: 0,0:01:31.58,0:01:32.24,Kafka,,0,0,0,,{\an2}Franz Kafka\NIn this sense, freedom is not a liberation, but occurs,
+Dialogue: 0,0:01:32.24,0:01:32.32,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthis sense, freedom is not a liberation, but occurs, for
+Dialogue: 0,0:01:32.32,0:01:32.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Nsense, freedom is not a liberation, but occurs, for it
+Dialogue: 0,0:01:32.46,0:01:32.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom is not a liberation, but occurs, for it imposes
+Dialogue: 0,0:01:32.82,0:01:33.16,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis not a liberation, but occurs, for it imposes upon
+Dialogue: 0,0:01:33.16,0:01:33.34,Kafka,,0,0,0,,{\an2}Franz Kafka\Nnot a liberation, but occurs, for it imposes upon us
+Dialogue: 0,0:01:33.34,0:01:33.52,Kafka,,0,0,0,,{\an2}Franz Kafka\Na liberation, but occurs, for it imposes upon us the
+Dialogue: 0,0:01:33.52,0:01:34.12,Kafka,,0,0,0,,{\an2}Franz Kafka\Nliberation, but occurs, for it imposes upon us the responsibility
+Dialogue: 0,0:01:34.12,0:01:34.50,Kafka,,0,0,0,,{\an2}Franz Kafka\Nbut occurs, for it imposes upon us the responsibility of
+Dialogue: 0,0:01:34.50,0:01:34.84,Kafka,,0,0,0,,{\an2}Franz Kafka\Noccurs, for it imposes upon us the responsibility of creating
+Dialogue: 0,0:01:34.84,0:01:35.14,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfor it imposes upon us the responsibility of creating our
+Dialogue: 0,0:01:35.14,0:01:35.32,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit imposes upon us the responsibility of creating our own
+Dialogue: 0,0:01:35.32,0:01:35.60,Kafka,,0,0,0,,{\an2}Franz Kafka\Nimposes upon us the responsibility of creating our own purpose
+Dialogue: 0,0:01:35.60,0:01:35.84,Kafka,,0,0,0,,{\an2}Franz Kafka\Nupon us the responsibility of creating our own purpose and
+Dialogue: 0,0:01:35.84,0:01:36.08,Kafka,,0,0,0,,{\an2}Franz Kafka\Nus the responsibility of creating our own purpose and meaning
+Dialogue: 0,0:01:36.08,0:01:36.28,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe responsibility of creating our own purpose and meaning in
+Dialogue: 0,0:01:36.28,0:01:36.38,Kafka,,0,0,0,,{\an2}Franz Kafka\Nresponsibility of creating our own purpose and meaning in a
+Dialogue: 0,0:01:36.38,0:01:36.66,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof creating our own purpose and meaning in a seemingly
+Dialogue: 0,0:01:36.66,0:01:37.20,Kafka,,0,0,0,,{\an2}Franz Kafka\Ncreating our own purpose and meaning in a seemingly indifferent
+Dialogue: 0,0:01:37.20,0:01:38.48,Kafka,,0,0,0,,{\an2}Franz Kafka\Nour own purpose and meaning in a seemingly indifferent world.
+Dialogue: 0,0:01:38.48,0:01:38.70,Kafka,,0,0,0,,{\an2}Franz Kafka\Nown purpose and meaning in a seemingly indifferent world. As
+Dialogue: 0,0:01:38.70,0:01:38.90,Kafka,,0,0,0,,{\an2}Franz Kafka\Npurpose and meaning in a seemingly indifferent world. As I
+Dialogue: 0,0:01:38.90,0:01:39.06,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand meaning in a seemingly indifferent world. As I see
+Dialogue: 0,0:01:39.06,0:01:39.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Nmeaning in a seemingly indifferent world. As I see it,
+Dialogue: 0,0:01:39.46,0:01:39.54,Kafka,,0,0,0,,{\an2}Franz Kafka\Nin a seemingly indifferent world. As I see it, the
+Dialogue: 0,0:01:39.54,0:01:39.76,Kafka,,0,0,0,,{\an2}Franz Kafka\Na seemingly indifferent world. As I see it, the burden
+Dialogue: 0,0:01:39.76,0:01:40.02,Kafka,,0,0,0,,{\an2}Franz Kafka\Nseemingly indifferent world. As I see it, the burden of
+Dialogue: 0,0:01:40.02,0:01:40.26,Kafka,,0,0,0,,{\an2}Franz Kafka\Nindifferent world. As I see it, the burden of freedom
+Dialogue: 0,0:01:40.26,0:01:40.54,Kafka,,0,0,0,,{\an2}Franz Kafka\Nworld. As I see it, the burden of freedom is
+Dialogue: 0,0:01:40.54,0:01:40.64,Kafka,,0,0,0,,{\an2}Franz Kafka\NAs I see it, the burden of freedom is a
+Dialogue: 0,0:01:40.64,0:01:40.98,Kafka,,0,0,0,,{\an2}Franz Kafka\NI see it, the burden of freedom is a constant
+Dialogue: 0,0:01:40.98,0:01:41.40,Kafka,,0,0,0,,{\an2}Franz Kafka\Nsee it, the burden of freedom is a constant reminder
+Dialogue: 0,0:01:41.40,0:01:41.68,Kafka,,0,0,0,,{\an2}Franz Kafka\Nit, the burden of freedom is a constant reminder of
+Dialogue: 0,0:01:41.68,0:01:41.86,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe burden of freedom is a constant reminder of our
+Dialogue: 0,0:01:41.86,0:01:42.02,Kafka,,0,0,0,,{\an2}Franz Kafka\Nburden of freedom is a constant reminder of our own
+Dialogue: 0,0:01:42.02,0:01:42.74,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof freedom is a constant reminder of our own insignificance
+Dialogue: 0,0:01:42.74,0:01:43.00,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfreedom is a constant reminder of our own insignificance and
+Dialogue: 0,0:01:43.00,0:01:43.06,Kafka,,0,0,0,,{\an2}Franz Kafka\Nis a constant reminder of our own insignificance and the
+Dialogue: 0,0:01:43.06,0:01:43.54,Kafka,,0,0,0,,{\an2}Franz Kafka\Na constant reminder of our own insignificance and the futility
+Dialogue: 0,0:01:43.54,0:01:43.80,Kafka,,0,0,0,,{\an2}Franz Kafka\Nconstant reminder of our own insignificance and the futility of
+Dialogue: 0,0:01:43.80,0:01:43.94,Kafka,,0,0,0,,{\an2}Franz Kafka\Nreminder of our own insignificance and the futility of our
+Dialogue: 0,0:01:43.94,0:01:44.24,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof our own insignificance and the futility of our attempts
+Dialogue: 0,0:01:44.24,0:01:44.50,Kafka,,0,0,0,,{\an2}Franz Kafka\Nour own insignificance and the futility of our attempts to
+Dialogue: 0,0:01:44.50,0:01:44.78,Kafka,,0,0,0,,{\an2}Franz Kafka\Nown insignificance and the futility of our attempts to impose
+Dialogue: 0,0:01:44.78,0:01:45.10,Kafka,,0,0,0,,{\an2}Franz Kafka\Ninsignificance and the futility of our attempts to impose order
+Dialogue: 0,0:01:45.10,0:01:45.36,Kafka,,0,0,0,,{\an2}Franz Kafka\Nand the futility of our attempts to impose order on
+Dialogue: 0,0:01:45.36,0:01:45.46,Kafka,,0,0,0,,{\an2}Franz Kafka\Nthe futility of our attempts to impose order on a
+Dialogue: 0,0:01:45.46,0:01:45.82,Kafka,,0,0,0,,{\an2}Franz Kafka\Nfutility of our attempts to impose order on a chaotic
+Dialogue: 0,0:01:45.82,0:01:46.36,Kafka,,0,0,0,,{\an2}Franz Kafka\Nof our attempts to impose order on a chaotic universe.
+Dialogue: 0,0:01:47.85,0:01:48.25,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe
+Dialogue: 0,0:01:48.25,0:01:48.53,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden
+Dialogue: 0,0:01:48.53,0:01:48.77,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of
+Dialogue: 0,0:01:48.77,0:01:48.97,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom
+Dialogue: 0,0:01:48.97,0:01:49.27,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is
+Dialogue: 0,0:01:49.27,0:01:49.41,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a
+Dialogue: 0,0:01:49.41,0:01:49.53,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight
+Dialogue: 0,0:01:49.53,0:01:49.79,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that
+Dialogue: 0,0:01:49.79,0:01:49.97,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that only
+Dialogue: 0,0:01:49.97,0:01:50.15,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe burden of freedom is a weight that only the
+Dialogue: 0,0:01:50.15,0:01:50.53,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nburden of freedom is a weight that only the strongest
+Dialogue: 0,0:01:50.53,0:01:50.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof freedom is a weight that only the strongest can
+Dialogue: 0,0:01:50.83,0:01:51.19,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom is a weight that only the strongest can bear
+Dialogue: 0,0:01:51.19,0:01:51.41,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis a weight that only the strongest can bear for
+Dialogue: 0,0:01:51.41,0:01:51.55,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na weight that only the strongest can bear for it
+Dialogue: 0,0:01:51.55,0:01:51.81,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nweight that only the strongest can bear for it demands
+Dialogue: 0,0:01:51.81,0:01:52.05,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthat only the strongest can bear for it demands the
+Dialogue: 0,0:01:52.05,0:01:52.45,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nonly the strongest can bear for it demands the perpetual
+Dialogue: 0,0:01:52.45,0:01:52.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe strongest can bear for it demands the perpetual overcoming
+Dialogue: 0,0:01:52.95,0:01:53.29,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstrongest can bear for it demands the perpetual overcoming of
+Dialogue: 0,0:01:53.29,0:01:53.67,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncan bear for it demands the perpetual overcoming of oneself
+Dialogue: 0,0:01:53.67,0:01:53.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbear for it demands the perpetual overcoming of oneself and
+Dialogue: 0,0:01:53.95,0:01:54.03,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfor it demands the perpetual overcoming of oneself and the
+Dialogue: 0,0:01:54.03,0:01:54.35,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nit demands the perpetual overcoming of oneself and the rejection
+Dialogue: 0,0:01:54.35,0:01:54.57,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndemands the perpetual overcoming of oneself and the rejection of
+Dialogue: 0,0:01:54.57,0:01:54.75,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe perpetual overcoming of oneself and the rejection of the
+Dialogue: 0,0:01:54.75,0:01:55.31,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nperpetual overcoming of oneself and the rejection of the stagnating
+Dialogue: 0,0:01:55.31,0:01:55.69,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Novercoming of oneself and the rejection of the stagnating forces
+Dialogue: 0,0:01:55.69,0:01:55.93,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof oneself and the rejection of the stagnating forces of
+Dialogue: 0,0:01:55.93,0:01:56.29,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Noneself and the rejection of the stagnating forces of convention
+Dialogue: 0,0:01:56.29,0:01:56.59,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand the rejection of the stagnating forces of convention and
+Dialogue: 0,0:01:56.59,0:01:58.01,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe rejection of the stagnating forces of convention and morality.
+Dialogue: 0,0:01:58.01,0:01:58.13,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nrejection of the stagnating forces of convention and morality. To
+Dialogue: 0,0:01:58.13,0:01:58.33,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof the stagnating forces of convention and morality. To be
+Dialogue: 0,0:01:58.33,0:01:58.59,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe stagnating forces of convention and morality. To be free
+Dialogue: 0,0:01:58.59,0:01:58.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstagnating forces of convention and morality. To be free is
+Dialogue: 0,0:01:58.83,0:01:58.87,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nforces of convention and morality. To be free is to
+Dialogue: 0,0:01:58.87,0:01:59.03,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof convention and morality. To be free is to be
+Dialogue: 0,0:01:59.03,0:01:59.15,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nconvention and morality. To be free is to be a
+Dialogue: 0,0:01:59.15,0:01:59.55,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand morality. To be free is to be a creative
+Dialogue: 0,0:01:59.55,0:02:00.07,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nmorality. To be free is to be a creative force
+Dialogue: 0,0:02:00.07,0:02:00.39,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NTo be free is to be a creative force to
+Dialogue: 0,0:02:00.39,0:02:00.61,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe free is to be a creative force to dance
+Dialogue: 0,0:02:00.61,0:02:00.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfree is to be a creative force to dance on
+Dialogue: 0,0:02:00.83,0:02:00.99,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis to be a creative force to dance on the
+Dialogue: 0,0:02:00.99,0:02:01.13,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto be a creative force to dance on the edge
+Dialogue: 0,0:02:01.13,0:02:01.29,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbe a creative force to dance on the edge of
+Dialogue: 0,0:02:01.29,0:02:01.37,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na creative force to dance on the edge of the
+Dialogue: 0,0:02:01.37,0:02:02.03,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncreative force to dance on the edge of the abyss,
+Dialogue: 0,0:02:02.03,0:02:02.05,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nforce to dance on the edge of the abyss, and
+Dialogue: 0,0:02:02.05,0:02:02.17,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto dance on the edge of the abyss, and to
+Dialogue: 0,0:02:02.17,0:02:02.35,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndance on the edge of the abyss, and to will
+Dialogue: 0,0:02:02.35,0:02:02.75,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Non the edge of the abyss, and to will one's
+Dialogue: 0,0:02:02.75,0:02:02.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe edge of the abyss, and to will one's own
+Dialogue: 0,0:02:02.95,0:02:03.29,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nedge of the abyss, and to will one's own values
+Dialogue: 0,0:02:03.29,0:02:03.63,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof the abyss, and to will one's own values into
+Dialogue: 0,0:02:03.63,0:02:04.57,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe abyss, and to will one's own values into existence,
+Dialogue: 0,0:02:04.57,0:02:05.13,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nabyss, and to will one's own values into existence, unencumbered
+Dialogue: 0,0:02:05.13,0:02:05.27,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand to will one's own values into existence, unencumbered by
+Dialogue: 0,0:02:05.27,0:02:05.43,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nto will one's own values into existence, unencumbered by the
+Dialogue: 0,0:02:05.43,0:02:05.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwill one's own values into existence, unencumbered by the suffocating
+Dialogue: 0,0:02:05.95,0:02:06.35,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\None's own values into existence, unencumbered by the suffocating gravity
+Dialogue: 0,0:02:06.35,0:02:06.69,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nown values into existence, unencumbered by the suffocating gravity of
+Dialogue: 0,0:02:06.69,0:02:07.07,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nvalues into existence, unencumbered by the suffocating gravity of traditional
+Dialogue: 0,0:02:07.07,0:02:08.67,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ninto existence, unencumbered by the suffocating gravity of traditional norms.
+Dialogue: 0,0:02:08.67,0:02:08.87,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nexistence, unencumbered by the suffocating gravity of traditional norms. The
+Dialogue: 0,0:02:08.87,0:02:09.21,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nunencumbered by the suffocating gravity of traditional norms. The individual
+Dialogue: 0,0:02:09.21,0:02:09.61,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nby the suffocating gravity of traditional norms. The individual who
+Dialogue: 0,0:02:09.61,0:02:09.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe suffocating gravity of traditional norms. The individual who seeks
+Dialogue: 0,0:02:09.83,0:02:10.21,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nsuffocating gravity of traditional norms. The individual who seeks freedom
+Dialogue: 0,0:02:10.21,0:02:10.53,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ngravity of traditional norms. The individual who seeks freedom must
+Dialogue: 0,0:02:10.53,0:02:10.89,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof traditional norms. The individual who seeks freedom must first
+Dialogue: 0,0:02:10.89,0:02:11.09,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ntraditional norms. The individual who seeks freedom must first shed
+Dialogue: 0,0:02:11.09,0:02:11.27,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nnorms. The individual who seeks freedom must first shed the
+Dialogue: 0,0:02:11.27,0:02:11.39,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NThe individual who seeks freedom must first shed the skin
+Dialogue: 0,0:02:11.39,0:02:11.57,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nindividual who seeks freedom must first shed the skin of
+Dialogue: 0,0:02:11.57,0:02:11.73,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nwho seeks freedom must first shed the skin of their
+Dialogue: 0,0:02:11.73,0:02:11.91,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nseeks freedom must first shed the skin of their old
+Dialogue: 0,0:02:11.91,0:02:12.65,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom must first shed the skin of their old self,
+Dialogue: 0,0:02:12.65,0:02:12.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nmust first shed the skin of their old self, purify
+Dialogue: 0,0:02:12.95,0:02:13.19,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfirst shed the skin of their old self, purify their
+Dialogue: 0,0:02:13.19,0:02:13.85,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nshed the skin of their old self, purify their spirit,
+Dialogue: 0,0:02:13.85,0:02:13.95,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe skin of their old self, purify their spirit, and
+Dialogue: 0,0:02:13.95,0:02:14.19,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nskin of their old self, purify their spirit, and emerge
+Dialogue: 0,0:02:14.19,0:02:14.43,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof their old self, purify their spirit, and emerge a
+Dialogue: 0,0:02:14.43,0:02:14.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ntheir old self, purify their spirit, and emerge a new,
+Dialogue: 0,0:02:14.83,0:02:14.99,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nold self, purify their spirit, and emerge a new, like
+Dialogue: 0,0:02:14.99,0:02:15.27,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nself, purify their spirit, and emerge a new, like the
+Dialogue: 0,0:02:15.27,0:02:15.41,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Npurify their spirit, and emerge a new, like the Phoenix
+Dialogue: 0,0:02:15.41,0:02:15.69,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ntheir spirit, and emerge a new, like the Phoenix from
+Dialogue: 0,0:02:15.69,0:02:15.87,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nspirit, and emerge a new, like the Phoenix from the
+Dialogue: 0,0:02:15.87,0:02:16.15,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand emerge a new, like the Phoenix from the ashes,
+Dialogue: 0,0:02:16.15,0:02:16.57,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nemerge a new, like the Phoenix from the ashes, for
+Dialogue: 0,0:02:16.57,0:02:16.69,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na new, like the Phoenix from the ashes, for it
+Dialogue: 0,0:02:16.69,0:02:16.87,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nnew, like the Phoenix from the ashes, for it is
+Dialogue: 0,0:02:16.87,0:02:17.05,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nlike the Phoenix from the ashes, for it is only
+Dialogue: 0,0:02:17.05,0:02:17.31,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe Phoenix from the ashes, for it is only through
+Dialogue: 0,0:02:17.31,0:02:17.59,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NPhoenix from the ashes, for it is only through this
+Dialogue: 0,0:02:17.59,0:02:17.81,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfrom the ashes, for it is only through this self
+Dialogue: 0,0:02:17.81,0:02:18.15,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe ashes, for it is only through this self overcoming
+Dialogue: 0,0:02:18.15,0:02:18.53,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nashes, for it is only through this self overcoming that
+Dialogue: 0,0:02:18.53,0:02:18.71,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfor it is only through this self overcoming that one
+Dialogue: 0,0:02:18.71,0:02:18.85,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nit is only through this self overcoming that one can
+Dialogue: 0,0:02:18.85,0:02:19.15,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis only through this self overcoming that one can attain
+Dialogue: 0,0:02:19.15,0:02:19.51,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nonly through this self overcoming that one can attain true
+Dialogue: 0,0:02:19.51,0:02:19.85,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthrough this self overcoming that one can attain true freedom
+Dialogue: 0,0:02:19.85,0:02:20.11,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthis self overcoming that one can attain true freedom and
+Dialogue: 0,0:02:20.11,0:02:20.35,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nself overcoming that one can attain true freedom and become
+Dialogue: 0,0:02:20.35,0:02:20.55,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Novercoming that one can attain true freedom and become the
+Dialogue: 0,0:02:20.55,0:02:20.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthat one can attain true freedom and become the master
+Dialogue: 0,0:02:20.83,0:02:21.11,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\None can attain true freedom and become the master of
+Dialogue: 0,0:02:21.11,0:02:21.43,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ncan attain true freedom and become the master of one's
+Dialogue: 0,0:02:21.43,0:02:21.63,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nattain true freedom and become the master of one's own
+Dialogue: 0,0:02:21.63,0:02:23.07,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ntrue freedom and become the master of one's own destiny.
+Dialogue: 0,0:02:23.07,0:02:23.11,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom and become the master of one's own destiny. In
+Dialogue: 0,0:02:23.11,0:02:23.31,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nand become the master of one's own destiny. In this
+Dialogue: 0,0:02:23.31,0:02:24.01,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbecome the master of one's own destiny. In this sense,
+Dialogue: 0,0:02:24.01,0:02:24.21,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthe master of one's own destiny. In this sense, freedom
+Dialogue: 0,0:02:24.21,0:02:24.49,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nmaster of one's own destiny. In this sense, freedom is
+Dialogue: 0,0:02:24.49,0:02:24.63,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nof one's own destiny. In this sense, freedom is not
+Dialogue: 0,0:02:24.63,0:02:24.83,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\None's own destiny. In this sense, freedom is not a
+Dialogue: 0,0:02:24.83,0:02:25.33,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nown destiny. In this sense, freedom is not a state,
+Dialogue: 0,0:02:25.33,0:02:25.39,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Ndestiny. In this sense, freedom is not a state, but
+Dialogue: 0,0:02:25.39,0:02:25.57,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\NIn this sense, freedom is not a state, but a
+Dialogue: 0,0:02:25.57,0:02:25.89,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nthis sense, freedom is not a state, but a becoming
+Dialogue: 0,0:02:25.89,0:02:26.31,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nsense, freedom is not a state, but a becoming a
+Dialogue: 0,0:02:26.31,0:02:26.61,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nfreedom is not a state, but a becoming a constant
+Dialogue: 0,0:02:26.61,0:02:27.01,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nis not a state, but a becoming a constant striving
+Dialogue: 0,0:02:27.01,0:02:27.33,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nnot a state, but a becoming a constant striving to
+Dialogue: 0,0:02:27.33,0:02:27.69,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na state, but a becoming a constant striving to transcend
+Dialogue: 0,0:02:27.69,0:02:27.93,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nstate, but a becoming a constant striving to transcend and
+Dialogue: 0,0:02:27.93,0:02:28.07,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Nbut a becoming a constant striving to transcend and to
+Dialogue: 0,0:02:28.07,0:02:28.39,Nietzsche,,0,0,0,,{\an2}Friedrich Nietzsche\Na becoming a constant striving to transcend and to create.
