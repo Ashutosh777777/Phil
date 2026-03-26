@@ -1,0 +1,2876 @@
+[
+  {
+    "word": "The",
+    "start": 0.0,
+    "end": 0.34,
+    "speaker": "kafka"
+  },
+  {
+    "word": "burden",
+    "start": 0.34,
+    "end": 0.66,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 0.66,
+    "end": 0.88,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 0.88,
+    "end": 1.12,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 1.12,
+    "end": 1.36,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 1.36,
+    "end": 1.5,
+    "speaker": "kafka"
+  },
+  {
+    "word": "crushing",
+    "start": 1.5,
+    "end": 1.76,
+    "speaker": "kafka"
+  },
+  {
+    "word": "weight,",
+    "start": 1.76,
+    "end": 2.1,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 2.28,
+    "end": 2.4,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 2.4,
+    "end": 2.54,
+    "speaker": "kafka"
+  },
+  {
+    "word": "not,",
+    "start": 2.54,
+    "end": 2.8,
+    "speaker": "kafka"
+  },
+  {
+    "word": "for",
+    "start": 3.04,
+    "end": 3.22,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 3.22,
+    "end": 3.3,
+    "speaker": "kafka"
+  },
+  {
+    "word": "leaves",
+    "start": 3.3,
+    "end": 3.48,
+    "speaker": "kafka"
+  },
+  {
+    "word": "us",
+    "start": 3.48,
+    "end": 3.72,
+    "speaker": "kafka"
+  },
+  {
+    "word": "with",
+    "start": 3.72,
+    "end": 3.9,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 3.9,
+    "end": 4.14,
+    "speaker": "kafka"
+  },
+  {
+    "word": "responsibility",
+    "start": 4.14,
+    "end": 4.62,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 4.62,
+    "end": 5.04,
+    "speaker": "kafka"
+  },
+  {
+    "word": "choice",
+    "start": 5.04,
+    "end": 5.32,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 5.32,
+    "end": 5.52,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 5.52,
+    "end": 5.64,
+    "speaker": "kafka"
+  },
+  {
+    "word": "terror",
+    "start": 5.64,
+    "end": 5.88,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 5.88,
+    "end": 6.1,
+    "speaker": "kafka"
+  },
+  {
+    "word": "uncertainty.",
+    "start": 6.1,
+    "end": 6.7,
+    "speaker": "kafka"
+  },
+  {
+    "word": "Gregor's",
+    "start": 7.92,
+    "end": 8.18,
+    "speaker": "kafka"
+  },
+  {
+    "word": "metamorphosis",
+    "start": 8.18,
+    "end": 8.82,
+    "speaker": "kafka"
+  },
+  {
+    "word": "has",
+    "start": 8.82,
+    "end": 9.1,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freed",
+    "start": 9.1,
+    "end": 9.28,
+    "speaker": "kafka"
+  },
+  {
+    "word": "him",
+    "start": 9.28,
+    "end": 9.46,
+    "speaker": "kafka"
+  },
+  {
+    "word": "from",
+    "start": 9.46,
+    "end": 9.64,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 9.64,
+    "end": 9.84,
+    "speaker": "kafka"
+  },
+  {
+    "word": "shackles",
+    "start": 9.84,
+    "end": 10.18,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 10.18,
+    "end": 10.34,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 10.34,
+    "end": 10.52,
+    "speaker": "kafka"
+  },
+  {
+    "word": "mundane",
+    "start": 10.52,
+    "end": 10.8,
+    "speaker": "kafka"
+  },
+  {
+    "word": "life,",
+    "start": 10.8,
+    "end": 11.22,
+    "speaker": "kafka"
+  },
+  {
+    "word": "yet",
+    "start": 11.4,
+    "end": 11.5,
+    "speaker": "kafka"
+  },
+  {
+    "word": "he",
+    "start": 11.5,
+    "end": 11.64,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 11.64,
+    "end": 11.82,
+    "speaker": "kafka"
+  },
+  {
+    "word": "now",
+    "start": 11.82,
+    "end": 12.02,
+    "speaker": "kafka"
+  },
+  {
+    "word": "trapped",
+    "start": 12.02,
+    "end": 12.3,
+    "speaker": "kafka"
+  },
+  {
+    "word": "in",
+    "start": 12.3,
+    "end": 12.48,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 12.48,
+    "end": 12.64,
+    "speaker": "kafka"
+  },
+  {
+    "word": "prison",
+    "start": 12.64,
+    "end": 12.82,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 12.82,
+    "end": 13.08,
+    "speaker": "kafka"
+  },
+  {
+    "word": "isolation",
+    "start": 13.08,
+    "end": 13.44,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 13.44,
+    "end": 13.84,
+    "speaker": "kafka"
+  },
+  {
+    "word": "incomprehension.",
+    "start": 13.84,
+    "end": 14.66,
+    "speaker": "kafka"
+  },
+  {
+    "word": "In",
+    "start": 15.64,
+    "end": 15.76,
+    "speaker": "kafka"
+  },
+  {
+    "word": "this",
+    "start": 15.76,
+    "end": 15.98,
+    "speaker": "kafka"
+  },
+  {
+    "word": "state,",
+    "start": 15.98,
+    "end": 16.26,
+    "speaker": "kafka"
+  },
+  {
+    "word": "he",
+    "start": 16.52,
+    "end": 16.56,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 16.56,
+    "end": 16.72,
+    "speaker": "kafka"
+  },
+  {
+    "word": "forced",
+    "start": 16.72,
+    "end": 16.96,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 16.96,
+    "end": 17.16,
+    "speaker": "kafka"
+  },
+  {
+    "word": "confront",
+    "start": 17.16,
+    "end": 17.44,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 17.44,
+    "end": 17.7,
+    "speaker": "kafka"
+  },
+  {
+    "word": "abyss",
+    "start": 17.7,
+    "end": 17.92,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 17.92,
+    "end": 18.12,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 18.12,
+    "end": 18.3,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 18.3,
+    "end": 18.46,
+    "speaker": "kafka"
+  },
+  {
+    "word": "existence,",
+    "start": 18.46,
+    "end": 18.88,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 19.26,
+    "end": 19.36,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 19.36,
+    "end": 19.56,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 19.56,
+    "end": 19.76,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 19.76,
+    "end": 19.96,
+    "speaker": "kafka"
+  },
+  {
+    "word": "make",
+    "start": 19.96,
+    "end": 20.12,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 20.12,
+    "end": 20.38,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 20.38,
+    "end": 20.54,
+    "speaker": "kafka"
+  },
+  {
+    "word": "decisions",
+    "start": 20.54,
+    "end": 20.92,
+    "speaker": "kafka"
+  },
+  {
+    "word": "as",
+    "start": 20.92,
+    "end": 21.26,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 21.26,
+    "end": 21.44,
+    "speaker": "kafka"
+  },
+  {
+    "word": "constant",
+    "start": 21.44,
+    "end": 21.68,
+    "speaker": "kafka"
+  },
+  {
+    "word": "reminder",
+    "start": 21.68,
+    "end": 22.1,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 22.1,
+    "end": 22.34,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 22.34,
+    "end": 22.54,
+    "speaker": "kafka"
+  },
+  {
+    "word": "powerlessness.",
+    "start": 22.54,
+    "end": 23.2,
+    "speaker": "kafka"
+  },
+  {
+    "word": "Ultimately,",
+    "start": 24.24,
+    "end": 24.68,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 25.02,
+    "end": 25.14,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 25.14,
+    "end": 25.32,
+    "speaker": "kafka"
+  },
+  {
+    "word": "this",
+    "start": 25.32,
+    "end": 25.58,
+    "speaker": "kafka"
+  },
+  {
+    "word": "burden",
+    "start": 25.58,
+    "end": 25.82,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 25.82,
+    "end": 26.06,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 26.06,
+    "end": 26.3,
+    "speaker": "kafka"
+  },
+  {
+    "word": "that",
+    "start": 26.3,
+    "end": 26.6,
+    "speaker": "kafka"
+  },
+  {
+    "word": "drives",
+    "start": 26.6,
+    "end": 26.82,
+    "speaker": "kafka"
+  },
+  {
+    "word": "him",
+    "start": 26.82,
+    "end": 27.04,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 27.04,
+    "end": 27.12,
+    "speaker": "kafka"
+  },
+  {
+    "word": "seek",
+    "start": 27.12,
+    "end": 27.3,
+    "speaker": "kafka"
+  },
+  {
+    "word": "escape,",
+    "start": 27.3,
+    "end": 27.68,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 27.98,
+    "end": 28.12,
+    "speaker": "kafka"
+  },
+  {
+    "word": "yearn",
+    "start": 28.12,
+    "end": 28.34,
+    "speaker": "kafka"
+  },
+  {
+    "word": "for",
+    "start": 28.34,
+    "end": 28.48,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 28.48,
+    "end": 28.66,
+    "speaker": "kafka"
+  },
+  {
+    "word": "release",
+    "start": 28.66,
+    "end": 28.84,
+    "speaker": "kafka"
+  },
+  {
+    "word": "from",
+    "start": 28.84,
+    "end": 29.1,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 29.1,
+    "end": 29.24,
+    "speaker": "kafka"
+  },
+  {
+    "word": "suffocating",
+    "start": 29.24,
+    "end": 29.8,
+    "speaker": "kafka"
+  },
+  {
+    "word": "grip",
+    "start": 29.8,
+    "end": 30.04,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 30.04,
+    "end": 30.26,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 30.26,
+    "end": 30.42,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 30.42,
+    "end": 30.58,
+    "speaker": "kafka"
+  },
+  {
+    "word": "autonomy.",
+    "start": 30.58,
+    "end": 30.94,
+    "speaker": "kafka"
+  },
+  {
+    "word": "The",
+    "start": 32.568,
+    "end": 32.988,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "burden",
+    "start": 32.988,
+    "end": 33.228,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 33.228,
+    "end": 33.488,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 33.488,
+    "end": 33.668,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 33.668,
+    "end": 33.968,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 33.968,
+    "end": 34.108,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "weight",
+    "start": 34.108,
+    "end": 34.208,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "that",
+    "start": 34.208,
+    "end": 34.468,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "only",
+    "start": 34.468,
+    "end": 34.668,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 34.668,
+    "end": 34.868,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "strongest",
+    "start": 34.868,
+    "end": 35.228,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "can",
+    "start": 35.228,
+    "end": 35.548,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "bear",
+    "start": 35.548,
+    "end": 35.888,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "for",
+    "start": 35.888,
+    "end": 36.088,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "it",
+    "start": 36.088,
+    "end": 36.268,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "demands",
+    "start": 36.268,
+    "end": 36.528,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 36.528,
+    "end": 36.828,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "constant",
+    "start": 36.828,
+    "end": 37.088,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "overcoming",
+    "start": 37.088,
+    "end": 37.528,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 37.528,
+    "end": 37.848,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "oneself",
+    "start": 37.848,
+    "end": 38.208,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 38.208,
+    "end": 38.488,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 38.488,
+    "end": 38.648,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "shedding",
+    "start": 38.648,
+    "end": 38.808,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 38.808,
+    "end": 39.008,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 39.008,
+    "end": 39.168,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "chains",
+    "start": 39.168,
+    "end": 39.388,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 39.388,
+    "end": 39.668,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "conventional",
+    "start": 39.668,
+    "end": 40.068,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "morality.",
+    "start": 40.068,
+    "end": 40.708,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "To",
+    "start": 41.648,
+    "end": 41.748,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 41.748,
+    "end": 41.928,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "free",
+    "start": 41.928,
+    "end": 42.168,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 42.168,
+    "end": 42.408,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "not",
+    "start": 42.408,
+    "end": 42.588,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 42.588,
+    "end": 42.688,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 42.688,
+    "end": 42.928,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "unencumbered",
+    "start": 42.928,
+    "end": 43.608,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "but",
+    "start": 43.608,
+    "end": 43.848,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 43.848,
+    "end": 43.928,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 43.928,
+    "end": 44.108,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "burdened",
+    "start": 44.108,
+    "end": 44.408,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "with",
+    "start": 44.408,
+    "end": 44.608,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 44.608,
+    "end": 44.868,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "responsibility",
+    "start": 44.868,
+    "end": 45.288,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 45.288,
+    "end": 45.788,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "creating",
+    "start": 45.788,
+    "end": 46.108,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "one's",
+    "start": 46.108,
+    "end": 46.628,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "own",
+    "start": 46.628,
+    "end": 46.828,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "values",
+    "start": 46.828,
+    "end": 47.188,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 47.188,
+    "end": 47.428,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "purpose",
+    "start": 47.428,
+    "end": 47.868,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 47.868,
+    "end": 48.188,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 48.188,
+    "end": 48.308,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 48.308,
+    "end": 48.508,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "willing",
+    "start": 48.508,
+    "end": 48.668,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 48.668,
+    "end": 48.908,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "dance",
+    "start": 48.908,
+    "end": 49.108,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "with",
+    "start": 49.108,
+    "end": 49.288,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 49.288,
+    "end": 49.508,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "void",
+    "start": 49.508,
+    "end": 49.628,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "that",
+    "start": 49.628,
+    "end": 49.908,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "stares",
+    "start": 49.908,
+    "end": 50.128,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "back",
+    "start": 50.128,
+    "end": 50.408,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "at",
+    "start": 50.408,
+    "end": 50.568,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "us.",
+    "start": 50.568,
+    "end": 51.088,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "The",
+    "start": 51.748,
+    "end": 51.948,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "spirit",
+    "start": 51.948,
+    "end": 52.148,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 52.148,
+    "end": 52.388,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "gravity",
+    "start": 52.388,
+    "end": 52.728,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "seeks",
+    "start": 52.728,
+    "end": 53.088,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 53.088,
+    "end": 53.288,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "weigh",
+    "start": 53.288,
+    "end": 53.448,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "us",
+    "start": 53.448,
+    "end": 53.648,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "down",
+    "start": 53.648,
+    "end": 53.908,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "with",
+    "start": 53.908,
+    "end": 54.048,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 54.048,
+    "end": 54.228,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "lead",
+    "start": 54.228,
+    "end": 54.368,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 54.368,
+    "end": 54.468,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "chains",
+    "start": 54.468,
+    "end": 54.708,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 54.708,
+    "end": 54.868,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "tradition",
+    "start": 54.868,
+    "end": 55.168,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 55.168,
+    "end": 55.448,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "conformity",
+    "start": 55.448,
+    "end": 56.068,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "but",
+    "start": 56.068,
+    "end": 56.328,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 56.328,
+    "end": 56.528,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "free",
+    "start": 56.528,
+    "end": 56.728,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "spirit",
+    "start": 56.728,
+    "end": 57.048,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "must",
+    "start": 57.048,
+    "end": 57.288,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "resist",
+    "start": 57.288,
+    "end": 57.608,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "this",
+    "start": 57.608,
+    "end": 57.948,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "force",
+    "start": 57.948,
+    "end": 58.208,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 58.208,
+    "end": 58.468,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "instead",
+    "start": 58.468,
+    "end": 58.748,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "choose",
+    "start": 58.748,
+    "end": 59.068,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 59.068,
+    "end": 59.208,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "create",
+    "start": 59.208,
+    "end": 59.528,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "its",
+    "start": 59.528,
+    "end": 59.788,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "own",
+    "start": 59.788,
+    "end": 59.988,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "path",
+    "start": 59.988,
+    "end": 60.388,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 60.388,
+    "end": 60.628,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom.",
+    "start": 60.948,
+    "end": 61.268,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "In",
+    "start": 62.408,
+    "end": 62.768,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "this",
+    "start": 62.768,
+    "end": 62.968,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "sense,",
+    "start": 62.968,
+    "end": 63.388,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 63.688,
+    "end": 63.828,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 63.828,
+    "end": 64.108,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "not",
+    "start": 64.108,
+    "end": 64.348,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 64.348,
+    "end": 64.428,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "state",
+    "start": 64.428,
+    "end": 64.568,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 64.568,
+    "end": 64.788,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "being",
+    "start": 64.788,
+    "end": 65.148,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "but",
+    "start": 65.148,
+    "end": 65.428,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 65.428,
+    "end": 65.548,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "perpetual",
+    "start": 65.548,
+    "end": 65.928,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "becoming",
+    "start": 65.928,
+    "end": 66.388,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 66.388,
+    "end": 66.808,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "constant",
+    "start": 66.808,
+    "end": 67.188,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "striving",
+    "start": 67.188,
+    "end": 67.568,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 67.568,
+    "end": 67.928,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "overcome",
+    "start": 67.928,
+    "end": 68.208,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 68.208,
+    "end": 68.408,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 68.408,
+    "end": 68.528,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "create.",
+    "start": 68.528,
+    "end": 68.868,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "The",
+    "start": 70.368,
+    "end": 70.728,
+    "speaker": "kafka"
+  },
+  {
+    "word": "burden",
+    "start": 70.728,
+    "end": 71.008,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 71.008,
+    "end": 71.268,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 71.268,
+    "end": 71.488,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 71.488,
+    "end": 71.768,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 71.768,
+    "end": 71.888,
+    "speaker": "kafka"
+  },
+  {
+    "word": "weight",
+    "start": 71.888,
+    "end": 72.008,
+    "speaker": "kafka"
+  },
+  {
+    "word": "that",
+    "start": 72.008,
+    "end": 72.268,
+    "speaker": "kafka"
+  },
+  {
+    "word": "crushes",
+    "start": 72.268,
+    "end": 72.668,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 72.668,
+    "end": 72.808,
+    "speaker": "kafka"
+  },
+  {
+    "word": "individual,",
+    "start": 72.808,
+    "end": 73.288,
+    "speaker": "kafka"
+  },
+  {
+    "word": "for",
+    "start": 73.628,
+    "end": 73.748,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 73.748,
+    "end": 73.888,
+    "speaker": "kafka"
+  },
+  {
+    "word": "forces",
+    "start": 73.888,
+    "end": 74.208,
+    "speaker": "kafka"
+  },
+  {
+    "word": "us",
+    "start": 74.208,
+    "end": 74.468,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 74.468,
+    "end": 74.668,
+    "speaker": "kafka"
+  },
+  {
+    "word": "confront",
+    "start": 74.668,
+    "end": 74.948,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 74.948,
+    "end": 75.188,
+    "speaker": "kafka"
+  },
+  {
+    "word": "abyss",
+    "start": 75.188,
+    "end": 75.428,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 75.428,
+    "end": 75.668,
+    "speaker": "kafka"
+  },
+  {
+    "word": "our",
+    "start": 75.668,
+    "end": 75.808,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 75.808,
+    "end": 75.968,
+    "speaker": "kafka"
+  },
+  {
+    "word": "existence",
+    "start": 75.968,
+    "end": 76.368,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 76.368,
+    "end": 76.648,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 76.648,
+    "end": 76.808,
+    "speaker": "kafka"
+  },
+  {
+    "word": "meaninglessness",
+    "start": 76.808,
+    "end": 77.508,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 77.508,
+    "end": 77.608,
+    "speaker": "kafka"
+  },
+  {
+    "word": "our",
+    "start": 77.608,
+    "end": 77.748,
+    "speaker": "kafka"
+  },
+  {
+    "word": "choices.",
+    "start": 77.748,
+    "end": 78.248,
+    "speaker": "kafka"
+  },
+  {
+    "word": "Gregor's",
+    "start": 79.328,
+    "end": 79.708,
+    "speaker": "kafka"
+  },
+  {
+    "word": "transformation",
+    "start": 79.708,
+    "end": 80.188,
+    "speaker": "kafka"
+  },
+  {
+    "word": "has",
+    "start": 80.188,
+    "end": 80.548,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freed",
+    "start": 80.548,
+    "end": 80.728,
+    "speaker": "kafka"
+  },
+  {
+    "word": "him",
+    "start": 80.728,
+    "end": 80.908,
+    "speaker": "kafka"
+  },
+  {
+    "word": "from",
+    "start": 80.908,
+    "end": 81.068,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 81.068,
+    "end": 81.268,
+    "speaker": "kafka"
+  },
+  {
+    "word": "shackles",
+    "start": 81.268,
+    "end": 81.608,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 81.608,
+    "end": 81.748,
+    "speaker": "kafka"
+  },
+  {
+    "word": "his",
+    "start": 81.748,
+    "end": 81.968,
+    "speaker": "kafka"
+  },
+  {
+    "word": "mundane",
+    "start": 81.968,
+    "end": 82.228,
+    "speaker": "kafka"
+  },
+  {
+    "word": "life,",
+    "start": 82.228,
+    "end": 82.688,
+    "speaker": "kafka"
+  },
+  {
+    "word": "yet",
+    "start": 82.848,
+    "end": 82.928,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 82.928,
+    "end": 83.068,
+    "speaker": "kafka"
+  },
+  {
+    "word": "has",
+    "start": 83.068,
+    "end": 83.228,
+    "speaker": "kafka"
+  },
+  {
+    "word": "also",
+    "start": 83.228,
+    "end": 83.508,
+    "speaker": "kafka"
+  },
+  {
+    "word": "condemned",
+    "start": 83.508,
+    "end": 83.788,
+    "speaker": "kafka"
+  },
+  {
+    "word": "him",
+    "start": 83.788,
+    "end": 84.068,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 84.068,
+    "end": 84.188,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 84.188,
+    "end": 84.308,
+    "speaker": "kafka"
+  },
+  {
+    "word": "life",
+    "start": 84.308,
+    "end": 84.488,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 84.488,
+    "end": 84.668,
+    "speaker": "kafka"
+  },
+  {
+    "word": "isolation",
+    "start": 84.668,
+    "end": 85.028,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 85.028,
+    "end": 85.448,
+    "speaker": "kafka"
+  },
+  {
+    "word": "loneliness,",
+    "start": 85.448,
+    "end": 85.828,
+    "speaker": "kafka"
+  },
+  {
+    "word": "highlighting",
+    "start": 86.228,
+    "end": 86.408,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 86.408,
+    "end": 86.788,
+    "speaker": "kafka"
+  },
+  {
+    "word": "cruel",
+    "start": 86.788,
+    "end": 87.008,
+    "speaker": "kafka"
+  },
+  {
+    "word": "paradox",
+    "start": 87.008,
+    "end": 87.428,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 87.428,
+    "end": 87.648,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom.",
+    "start": 87.648,
+    "end": 88.048,
+    "speaker": "kafka"
+  },
+  {
+    "word": "In",
+    "start": 89.008,
+    "end": 89.188,
+    "speaker": "kafka"
+  },
+  {
+    "word": "this",
+    "start": 89.188,
+    "end": 89.428,
+    "speaker": "kafka"
+  },
+  {
+    "word": "sense,",
+    "start": 89.428,
+    "end": 89.688,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 89.948,
+    "end": 90.168,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 90.168,
+    "end": 90.408,
+    "speaker": "kafka"
+  },
+  {
+    "word": "not",
+    "start": 90.408,
+    "end": 90.588,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 90.588,
+    "end": 90.728,
+    "speaker": "kafka"
+  },
+  {
+    "word": "liberation,",
+    "start": 90.728,
+    "end": 91.108,
+    "speaker": "kafka"
+  },
+  {
+    "word": "but",
+    "start": 91.488,
+    "end": 91.588,
+    "speaker": "kafka"
+  },
+  {
+    "word": "occurs,",
+    "start": 91.588,
+    "end": 91.948,
+    "speaker": "kafka"
+  },
+  {
+    "word": "for",
+    "start": 92.248,
+    "end": 92.328,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it",
+    "start": 92.328,
+    "end": 92.468,
+    "speaker": "kafka"
+  },
+  {
+    "word": "imposes",
+    "start": 92.468,
+    "end": 92.828,
+    "speaker": "kafka"
+  },
+  {
+    "word": "upon",
+    "start": 92.828,
+    "end": 93.168,
+    "speaker": "kafka"
+  },
+  {
+    "word": "us",
+    "start": 93.168,
+    "end": 93.348,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 93.348,
+    "end": 93.528,
+    "speaker": "kafka"
+  },
+  {
+    "word": "responsibility",
+    "start": 93.528,
+    "end": 94.128,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 94.128,
+    "end": 94.508,
+    "speaker": "kafka"
+  },
+  {
+    "word": "creating",
+    "start": 94.508,
+    "end": 94.848,
+    "speaker": "kafka"
+  },
+  {
+    "word": "our",
+    "start": 94.848,
+    "end": 95.148,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 95.148,
+    "end": 95.328,
+    "speaker": "kafka"
+  },
+  {
+    "word": "purpose",
+    "start": 95.328,
+    "end": 95.608,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 95.608,
+    "end": 95.848,
+    "speaker": "kafka"
+  },
+  {
+    "word": "meaning",
+    "start": 95.848,
+    "end": 96.088,
+    "speaker": "kafka"
+  },
+  {
+    "word": "in",
+    "start": 96.088,
+    "end": 96.288,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 96.288,
+    "end": 96.388,
+    "speaker": "kafka"
+  },
+  {
+    "word": "seemingly",
+    "start": 96.388,
+    "end": 96.668,
+    "speaker": "kafka"
+  },
+  {
+    "word": "indifferent",
+    "start": 96.668,
+    "end": 97.208,
+    "speaker": "kafka"
+  },
+  {
+    "word": "world.",
+    "start": 97.208,
+    "end": 97.648,
+    "speaker": "kafka"
+  },
+  {
+    "word": "As",
+    "start": 98.488,
+    "end": 98.708,
+    "speaker": "kafka"
+  },
+  {
+    "word": "I",
+    "start": 98.708,
+    "end": 98.908,
+    "speaker": "kafka"
+  },
+  {
+    "word": "see",
+    "start": 98.908,
+    "end": 99.068,
+    "speaker": "kafka"
+  },
+  {
+    "word": "it,",
+    "start": 99.068,
+    "end": 99.308,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 99.468,
+    "end": 99.548,
+    "speaker": "kafka"
+  },
+  {
+    "word": "burden",
+    "start": 99.548,
+    "end": 99.768,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 99.768,
+    "end": 100.028,
+    "speaker": "kafka"
+  },
+  {
+    "word": "freedom",
+    "start": 100.028,
+    "end": 100.268,
+    "speaker": "kafka"
+  },
+  {
+    "word": "is",
+    "start": 100.268,
+    "end": 100.548,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 100.548,
+    "end": 100.648,
+    "speaker": "kafka"
+  },
+  {
+    "word": "constant",
+    "start": 100.648,
+    "end": 100.988,
+    "speaker": "kafka"
+  },
+  {
+    "word": "reminder",
+    "start": 100.988,
+    "end": 101.408,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 101.408,
+    "end": 101.688,
+    "speaker": "kafka"
+  },
+  {
+    "word": "our",
+    "start": 101.688,
+    "end": 101.868,
+    "speaker": "kafka"
+  },
+  {
+    "word": "own",
+    "start": 101.868,
+    "end": 102.028,
+    "speaker": "kafka"
+  },
+  {
+    "word": "insignificance",
+    "start": 102.028,
+    "end": 102.748,
+    "speaker": "kafka"
+  },
+  {
+    "word": "and",
+    "start": 102.748,
+    "end": 103.008,
+    "speaker": "kafka"
+  },
+  {
+    "word": "the",
+    "start": 103.008,
+    "end": 103.068,
+    "speaker": "kafka"
+  },
+  {
+    "word": "futility",
+    "start": 103.068,
+    "end": 103.548,
+    "speaker": "kafka"
+  },
+  {
+    "word": "of",
+    "start": 103.548,
+    "end": 103.808,
+    "speaker": "kafka"
+  },
+  {
+    "word": "our",
+    "start": 103.808,
+    "end": 103.948,
+    "speaker": "kafka"
+  },
+  {
+    "word": "attempts",
+    "start": 103.948,
+    "end": 104.248,
+    "speaker": "kafka"
+  },
+  {
+    "word": "to",
+    "start": 104.248,
+    "end": 104.508,
+    "speaker": "kafka"
+  },
+  {
+    "word": "impose",
+    "start": 104.508,
+    "end": 104.788,
+    "speaker": "kafka"
+  },
+  {
+    "word": "order",
+    "start": 104.788,
+    "end": 105.108,
+    "speaker": "kafka"
+  },
+  {
+    "word": "on",
+    "start": 105.108,
+    "end": 105.368,
+    "speaker": "kafka"
+  },
+  {
+    "word": "a",
+    "start": 105.368,
+    "end": 105.468,
+    "speaker": "kafka"
+  },
+  {
+    "word": "chaotic",
+    "start": 105.468,
+    "end": 105.828,
+    "speaker": "kafka"
+  },
+  {
+    "word": "universe.",
+    "start": 105.828,
+    "end": 106.368,
+    "speaker": "kafka"
+  },
+  {
+    "word": "The",
+    "start": 107.856,
+    "end": 108.256,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "burden",
+    "start": 108.256,
+    "end": 108.536,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 108.536,
+    "end": 108.776,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 108.776,
+    "end": 108.976,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 108.976,
+    "end": 109.276,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 109.276,
+    "end": 109.416,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "weight",
+    "start": 109.416,
+    "end": 109.536,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "that",
+    "start": 109.536,
+    "end": 109.796,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "only",
+    "start": 109.796,
+    "end": 109.976,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 109.976,
+    "end": 110.156,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "strongest",
+    "start": 110.156,
+    "end": 110.536,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "can",
+    "start": 110.536,
+    "end": 110.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "bear",
+    "start": 110.836,
+    "end": 111.196,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "for",
+    "start": 111.196,
+    "end": 111.416,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "it",
+    "start": 111.416,
+    "end": 111.556,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "demands",
+    "start": 111.556,
+    "end": 111.816,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 111.816,
+    "end": 112.056,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "perpetual",
+    "start": 112.056,
+    "end": 112.456,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "overcoming",
+    "start": 112.456,
+    "end": 112.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 112.956,
+    "end": 113.296,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "oneself",
+    "start": 113.296,
+    "end": 113.676,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 113.676,
+    "end": 113.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 113.956,
+    "end": 114.036,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "rejection",
+    "start": 114.036,
+    "end": 114.356,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 114.356,
+    "end": 114.576,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 114.576,
+    "end": 114.756,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "stagnating",
+    "start": 114.756,
+    "end": 115.316,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "forces",
+    "start": 115.316,
+    "end": 115.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 115.696,
+    "end": 115.936,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "convention",
+    "start": 115.936,
+    "end": 116.296,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 116.296,
+    "end": 116.596,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "morality.",
+    "start": 116.596,
+    "end": 117.116,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "To",
+    "start": 118.016,
+    "end": 118.136,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 118.136,
+    "end": 118.336,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "free",
+    "start": 118.336,
+    "end": 118.596,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 118.596,
+    "end": 118.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 118.836,
+    "end": 118.876,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "be",
+    "start": 118.876,
+    "end": 119.036,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 119.036,
+    "end": 119.156,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "creative",
+    "start": 119.156,
+    "end": 119.556,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "force",
+    "start": 119.556,
+    "end": 120.076,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 120.076,
+    "end": 120.396,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "dance",
+    "start": 120.396,
+    "end": 120.616,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "on",
+    "start": 120.616,
+    "end": 120.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 120.836,
+    "end": 120.996,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "edge",
+    "start": 120.996,
+    "end": 121.136,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 121.136,
+    "end": 121.296,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 121.296,
+    "end": 121.376,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "abyss,",
+    "start": 121.376,
+    "end": 121.796,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 122.036,
+    "end": 122.056,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 122.056,
+    "end": 122.176,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "will",
+    "start": 122.176,
+    "end": 122.356,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "one's",
+    "start": 122.356,
+    "end": 122.756,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "own",
+    "start": 122.756,
+    "end": 122.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "values",
+    "start": 122.956,
+    "end": 123.296,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "into",
+    "start": 123.296,
+    "end": 123.636,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "existence,",
+    "start": 123.636,
+    "end": 124.216,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "unencumbered",
+    "start": 124.576,
+    "end": 125.136,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "by",
+    "start": 125.136,
+    "end": 125.276,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 125.276,
+    "end": 125.436,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "suffocating",
+    "start": 125.436,
+    "end": 125.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "gravity",
+    "start": 125.956,
+    "end": 126.356,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 126.356,
+    "end": 126.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "traditional",
+    "start": 126.696,
+    "end": 127.076,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "norms.",
+    "start": 127.076,
+    "end": 127.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "The",
+    "start": 128.676,
+    "end": 128.876,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "individual",
+    "start": 128.876,
+    "end": 129.216,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "who",
+    "start": 129.216,
+    "end": 129.616,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "seeks",
+    "start": 129.616,
+    "end": 129.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 129.836,
+    "end": 130.216,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "must",
+    "start": 130.216,
+    "end": 130.536,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "first",
+    "start": 130.536,
+    "end": 130.896,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "shed",
+    "start": 130.896,
+    "end": 131.096,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 131.096,
+    "end": 131.276,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "skin",
+    "start": 131.276,
+    "end": 131.396,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 131.396,
+    "end": 131.576,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "their",
+    "start": 131.576,
+    "end": 131.736,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "old",
+    "start": 131.736,
+    "end": 131.916,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "self,",
+    "start": 131.916,
+    "end": 132.396,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "purify",
+    "start": 132.656,
+    "end": 132.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "their",
+    "start": 132.956,
+    "end": 133.196,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "spirit,",
+    "start": 133.196,
+    "end": 133.596,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 133.856,
+    "end": 133.956,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "emerge",
+    "start": 133.956,
+    "end": 134.196,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 134.196,
+    "end": 134.436,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "new,",
+    "start": 134.436,
+    "end": 134.636,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "like",
+    "start": 134.836,
+    "end": 134.996,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 134.996,
+    "end": 135.276,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "Phoenix",
+    "start": 135.276,
+    "end": 135.416,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "from",
+    "start": 135.416,
+    "end": 135.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 135.696,
+    "end": 135.876,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "ashes,",
+    "start": 135.876,
+    "end": 136.156,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "for",
+    "start": 136.156,
+    "end": 136.576,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "it",
+    "start": 136.576,
+    "end": 136.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 136.696,
+    "end": 136.876,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "only",
+    "start": 136.876,
+    "end": 137.056,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "through",
+    "start": 137.056,
+    "end": 137.316,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "this",
+    "start": 137.316,
+    "end": 137.596,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "self",
+    "start": 137.596,
+    "end": 137.816,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "overcoming",
+    "start": 137.816,
+    "end": 138.156,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "that",
+    "start": 138.156,
+    "end": 138.536,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "one",
+    "start": 138.536,
+    "end": 138.716,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "can",
+    "start": 138.716,
+    "end": 138.856,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "attain",
+    "start": 138.856,
+    "end": 139.156,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "true",
+    "start": 139.156,
+    "end": 139.516,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 139.516,
+    "end": 139.856,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 139.856,
+    "end": 140.116,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "become",
+    "start": 140.116,
+    "end": 140.356,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "the",
+    "start": 140.356,
+    "end": 140.556,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "master",
+    "start": 140.556,
+    "end": 140.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "of",
+    "start": 140.836,
+    "end": 141.116,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "one's",
+    "start": 141.116,
+    "end": 141.436,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "own",
+    "start": 141.436,
+    "end": 141.636,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "destiny.",
+    "start": 141.636,
+    "end": 142.076,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "In",
+    "start": 143.076,
+    "end": 143.116,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "this",
+    "start": 143.116,
+    "end": 143.316,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "sense,",
+    "start": 143.316,
+    "end": 143.776,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "freedom",
+    "start": 144.016,
+    "end": 144.216,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "is",
+    "start": 144.216,
+    "end": 144.496,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "not",
+    "start": 144.496,
+    "end": 144.636,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 144.636,
+    "end": 144.836,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "state,",
+    "start": 144.836,
+    "end": 145.116,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "but",
+    "start": 145.336,
+    "end": 145.396,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 145.396,
+    "end": 145.576,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "becoming",
+    "start": 145.576,
+    "end": 145.896,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "a",
+    "start": 145.896,
+    "end": 146.316,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "constant",
+    "start": 146.316,
+    "end": 146.616,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "striving",
+    "start": 146.616,
+    "end": 147.016,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 147.016,
+    "end": 147.336,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "transcend",
+    "start": 147.336,
+    "end": 147.696,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "and",
+    "start": 147.696,
+    "end": 147.936,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "to",
+    "start": 147.936,
+    "end": 148.076,
+    "speaker": "nietzsche"
+  },
+  {
+    "word": "create.",
+    "start": 148.076,
+    "end": 148.396,
+    "speaker": "nietzsche"
+  }
+]
