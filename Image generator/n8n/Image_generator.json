@@ -1,0 +1,129 @@
+{
+  "name": "My workflow 4",
+  "nodes": [
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://router.huggingface.co/hf-inference/models/stabilityai/stable-diffusion-xl-base-1.0",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "bearer Stealing_Tokens_Is_Bad_Bro"
+            },
+            {
+              "name": "Accept",
+              "value": "image/png"
+            },
+            {}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\"inputs\": \"an aesthetic image of two philosophers discussing\"}",
+        "options": {
+          "response": {
+            "response": {
+              "responseFormat": "file"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        220,
+        0
+      ],
+      "id": "f5971bec-bbf8-4651-9c74-1ad633b78651",
+      "name": "HTTP Request"
+    },
+    {
+      "parameters": {
+        "amount": 30
+      },
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        440,
+        0
+      ],
+      "id": "4ff9bcd4-94ce-4565-bb57-d93353812528",
+      "name": "Wait",
+      "webhookId": "1825b254-357f-4eb8-babf-06a05a3b8243"
+    },
+    {
+      "parameters": {
+        "operation": "write",
+        "fileName": "=D:\\AI_Projects\\GH\\Phil\\assets\\philosopher_{{$now.toFormat('yyyy-MM-dd_HH-mm-ss')}}.png",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.readWriteFile",
+      "typeVersion": 1,
+      "position": [
+        660,
+        0
+      ],
+      "id": "49169668-8677-4be8-829b-62838b2a0e42",
+      "name": "Read/Write Files from Disk"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        -20,
+        20
+      ],
+      "id": "e381e123-4867-41e1-a709-aa504145d18f",
+      "name": "When clicking ‘Execute workflow’"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Wait",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "node": "Read/Write Files from Disk",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "d454bbb5-520e-4d91-9534-72be39bba577",
+  "meta": {
+    "instanceId": "83aa9743153cdc9c98bfcb23b97b8a45d866d21d31d08c8664857b8a0691c123"
+  },
+  "id": "EPINS5QXY5m3ifXf",
+  "tags": []
+}
