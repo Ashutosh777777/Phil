@@ -10,7 +10,7 @@
           "parameters": [
             {
               "name": "Authorization",
-              "value": "bearer Stealing_Tokens_Is_Bad_Bro"
+              "value": "bearer Stealing_Token_Is_Bad_Bro"
             },
             {
               "name": "Accept",

@@ -595,6 +595,16 @@ def even_split_words(text, duration):
     d = duration / n
     return [FakeWord(w, i*d, (i+1)*d) for i, w in enumerate(words)]
 
+import glob
+import os
+
+def get_background():
+    images = glob.glob("assets/*.png") + glob.glob("assets/*.jpg")
+    if not images:
+        raise FileNotFoundError("No background image found in assets/")
+    return max(images, key=os.path.getctime)
+
+
 def compose_video(
     script_path="output_script.json",
     audio_dir="audio_output",
@@ -611,7 +621,7 @@ def compose_video(
 
     model = get_model(model_size)
 
-    bg = Image.open("assets/background.jpg").convert("RGB")
+    bg = Image.open(get_background()).convert("RGB")
     bg = bg.resize((W, H), Image.LANCZOS)
 
     try:
