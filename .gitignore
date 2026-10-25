@@ -3,3 +3,30 @@
 *.mp3
 *.json
 *.pdf
+
+# n8n runtime data
+n8n_data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+
+# Environment / secrets
+.env
+*.env
+venv/
+
+
+# Test files
+
+test_voices.py
+
+# Generated pipeline output
+multipart_output/
+video_output/
+audio_output/
+assets/*.png
+__pycache__/
+*.pyc
+
+# Config with secrets
+config.py

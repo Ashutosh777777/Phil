@@ -14,7 +14,17 @@ def clear_old_images():
 
 def generate_image():
     print("Generating new background image...")
-    response = requests.post(N8N_WEBHOOK, timeout=120)
+    prompt = (
+        "Franz Kafka and Friedrich Nietzsche sitting across from each other "
+        "at a wooden table, deep in an intense philosophical debate, dramatic "
+        "moody lighting, dark academic study background, oil painting style, "
+        "highly detailed, expressive faces"
+    )
+    response = requests.post(
+        N8N_WEBHOOK,
+        json={"prompt": prompt},
+        timeout=120
+    )
     if response.status_code == 200:
         image_path = os.path.join(IMAGE_FOLDER, "background.png")
         with open(image_path, "wb") as f:
@@ -27,7 +37,7 @@ def run_video_pipeline(topic):
     subprocess.run(["python3", "multipart_pipeline.py", topic])
 
 if __name__ == "__main__":
-    topic = "The nature of existence"
+    topic = "Does suffering make you stronger—or destroy you?"
     clear_old_images()
     generate_image()
     run_video_pipeline(topic)

@@ -9,13 +9,13 @@ import os
 
 # Voice assignments
 VOICES = {
-    "kafka": "en-US-GuyNeural",
-    "nietzsche": "en-GB-RyanNeural"
+    "kafka":     {"voice": "en-GB-ThomasNeural",            "rate": "-8%", "pitch": "-3Hz"},
+    "nietzsche": {"voice": "en-US-BrianMultilingualNeural",  "rate": "+5%", "pitch": "+2Hz"}
 }
 
 async def synthesize_line(text: str, speaker: str, output_path: str):
-    voice = VOICES.get(speaker.lower(), "en-US-GuyNeural")  # .lower() added
-    communicate = edge_tts.Communicate(text, voice)
+    cfg = VOICES.get(speaker.lower(), VOICES["kafka"])
+    communicate = edge_tts.Communicate(text, cfg["voice"], rate=cfg["rate"], pitch=cfg["pitch"])
     await communicate.save(output_path)
 
 async def generate_audio_from_script(script: list, output_dir: str = "audio_output"):
