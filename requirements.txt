@@ -5,3 +5,5 @@ qdrant-client
 openai
 python-dotenv
 tqdm
+google-api-python-client
+google-auth-oauthlib

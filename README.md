@@ -159,7 +159,7 @@ The more texts you ingest per philosopher, the richer and more grounded the deba
 
 ```bash
 cd phil
-python3 run_pipeline.py
+python3 run_pipeline.py "The nature of existence"
 ```
 
 That's it. The pipeline:
@@ -171,12 +171,67 @@ That's it. The pipeline:
 6. Aligns captions word-by-word with Whisper
 7. Renders frames and composes videos via ffmpeg
 8. Outputs `multipart_output/debate_part1.mp4`, `part2.mp4`, `part3.mp4`
+9. Uploads each part to YouTube as private and schedules it to go public, one part per day
 
-To change the topic, edit `run_pipeline.py`:
+The topic is the first argument. If you leave it out, `DEFAULT_TOPIC` from `config.py` is used.
 
-```python
-topic = "The nature of existence"
+---
+
+## YouTube upload and scheduling
+
+### One-time setup
+
+1. In Google Cloud Console, create a project and enable **YouTube Data API v3**.
+2. Create an OAuth client of type **Desktop app**, download it, and save it as `client_secret.json` in the repo root.
+3. On the OAuth consent screen, set the publishing status to **In production** (in "Testing" mode the login expires after 7 days).
+4. `pip install -r requirements.txt`
+5. Run the sign-in once and open the printed URL in a browser:
+
+```bash
+python3 youtube_uploader.py --auth
 ```
+
+This saves `token.json`, which refreshes itself from then on. `client_secret.json`, `token.json` and `upload_log.jsonl` are git-ignored.
+
+### Run it manually, when you want a new set of videos
+
+```bash
+python3 run_pipeline.py "The burden of freedom"
+```
+
+Part 1 goes public at the next occurrence of the daily publish time, Part 2 the day after, Part 3 the day after that.
+
+### Choosing the publish time
+
+Default is `18:00` in `Asia/Kolkata`. Change it for one run:
+
+```bash
+python3 run_pipeline.py "topic" --time 07:30                       # 7:30 AM daily
+python3 run_pipeline.py "topic" --time 19:00 --start-date 2026-11-02   # Part 1 on 2 Nov
+python3 run_pipeline.py "topic" --time 18:00 --tz America/New_York
+```
+
+Or change the default permanently by adding to `.env`:
+
+```
+PUBLISH_TIME=20:00
+PUBLISH_TZ=Asia/Kolkata
+```
+
+`--time` is 24-hour `HH:MM`. YouTube needs the first publish time to be at least ~20 minutes away, so a time that has already passed today rolls to tomorrow.
+
+### Other modes
+
+```bash
+python3 run_pipeline.py "topic" --skip-upload     # generate videos only
+python3 run_pipeline.py --upload-only             # upload what is already in multipart_output/
+python3 run_pipeline.py --upload-only --dry-run   # print the schedule, upload nothing
+python3 run_pipeline.py --upload-only --force     # re-upload even if already uploaded
+```
+
+Uploads are tracked by file hash in `upload_log.jsonl`, so re-running `--upload-only` will not create duplicates.
+
+To reschedule or cancel an upload, edit it in YouTube Studio. Scheduled videos stay private until their publish time.
 
 ---
 

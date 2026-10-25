@@ -30,3 +30,8 @@ __pycache__/
 
 # Config with secrets
 config.py
+
+# YouTube upload credentials and log
+token.json
+client_secret.json
+upload_log.jsonl
