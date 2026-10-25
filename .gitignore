@@ -3,3 +3,6 @@
 *.mp3
 *.json
 *.pdf
+token.json
+client_secret.json
+upload_log.jsonl

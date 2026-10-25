@@ -11,6 +11,11 @@ EMBEDDING_DIM = 384
 
 QDRANT_URL = "http://localhost:6333"
 
+# YouTube scheduling (override in .env or with --time / --tz on the command line)
+DEFAULT_TOPIC = "The nature of existence"
+PUBLISH_TIME = os.getenv("PUBLISH_TIME", "18:00")        # 24h HH:MM
+PUBLISH_TZ = os.getenv("PUBLISH_TZ", "Asia/Kolkata")     # IANA timezone name
+
 AUTHORS = {
     "kafka": {
         "pdf_dir": "data/author_a",
