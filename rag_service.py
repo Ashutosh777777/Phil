@@ -345,9 +345,10 @@ def generate_debate(req: DebateRequest):
         })
 
         response = groq_client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model="openai/gpt-oss-120b",  # llama-3.3-70b-versatile was retired by Groq on 2026-08-16
             messages=[{"role": "system", "content": persona}] + conversation_history,
-            max_tokens=150,
+            max_tokens=600,  # reasoning tokens count toward this limit; replies are still 2-3 sentences
+            reasoning_effort="low",
             temperature=0.85
         )
 
