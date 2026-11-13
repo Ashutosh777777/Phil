@@ -10,6 +10,7 @@ Generate a new set of debate videos and schedule them on YouTube, one part per d
 Other modes:
 
     python3 run_pipeline.py "topic" --skip-upload     # generate only
+    python3 run_pipeline.py "topic" --no-gen          # reuse the newest image in assets/
     python3 run_pipeline.py --upload-only             # upload videos already in multipart_output/
     python3 run_pipeline.py --upload-only --dry-run   # show the schedule, upload nothing
 
@@ -22,6 +23,7 @@ import glob
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 from datetime import datetime, timedelta
@@ -44,9 +46,17 @@ MIN_LEAD = timedelta(minutes=20)
 # ── Image + video generation ──────────────────────────────────────────────────
 
 def clear_old_images():
+    """Move old backgrounds to assets/archive/ instead of deleting them."""
+    archive = os.path.join(IMAGE_FOLDER, "archive")
+    os.makedirs(archive, exist_ok=True)
+    stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     for f in glob.glob(os.path.join(IMAGE_FOLDER, "*.png")) + glob.glob(os.path.join(IMAGE_FOLDER, "*.jpg")):
-        os.remove(f)
-        print(f"Deleted old image: {f}")
+        if os.path.getsize(f) == 0:
+            os.remove(f)  # empty leftovers from failed runs are worthless
+            continue
+        dest = os.path.join(archive, f"{stamp}_{os.path.basename(f)}")
+        shutil.move(f, dest)
+        print(f"Archived old image: {dest}")
 
 
 def generate_image():
@@ -57,14 +67,24 @@ def generate_image():
         "moody lighting, dark academic study background, oil painting style, "
         "highly detailed, expressive faces"
     )
-    response = requests.post(N8N_WEBHOOK, json={"prompt": prompt}, timeout=120)
-    if response.status_code == 200:
-        image_path = os.path.join(IMAGE_FOLDER, "background.png")
-        with open(image_path, "wb") as f:
-            f.write(response.content)
-        print(f"Image saved to {image_path}")
-    else:
-        raise Exception(f"Failed: {response.text}")
+    response = requests.post(N8N_WEBHOOK, json={"prompt": prompt}, timeout=180)
+    body = response.content
+    is_image = body[:8] == b"\x89PNG\r\n\x1a\n" or body[:3] == b"\xff\xd8\xff"
+    if response.status_code != 200 or not is_image:
+        archived = sorted(glob.glob(os.path.join(IMAGE_FOLDER, "archive", "*")), key=os.path.getmtime)
+        if archived:
+            shutil.copy(archived[-1], os.path.join(IMAGE_FOLDER, "background.png"))
+            print(f"WARNING: n8n returned no image (HTTP {response.status_code}); "
+                  f"reusing {archived[-1]}")
+            return
+        raise Exception(
+            f"n8n did not return an image (HTTP {response.status_code}, "
+            f"{len(body)} bytes). First bytes: {body[:300]!r}"
+        )
+    image_path = os.path.join(IMAGE_FOLDER, "background.png")
+    with open(image_path, "wb") as f:
+        f.write(body)
+    print(f"Image saved to {image_path} ({len(body)} bytes)")
 
 
 def ensure_services():
@@ -190,6 +210,8 @@ def main():
                     help="Generate videos but do not upload")
     ap.add_argument("--dry-run", action="store_true",
                     help="Print the publish schedule without uploading")
+    ap.add_argument("--no-gen", action="store_true",
+                    help="Do not generate a background; use the newest image already in assets/")
     ap.add_argument("--force", action="store_true",
                     help="Upload even if this exact file was uploaded before")
     args = ap.parse_args()
@@ -203,8 +225,15 @@ def main():
     if not args.upload_only:
         topic = topic or DEFAULT_TOPIC
         ensure_services()
-        clear_old_images()
-        generate_image()
+        if args.no_gen:
+            existing = glob.glob(os.path.join(IMAGE_FOLDER, "*.png")) + glob.glob(os.path.join(IMAGE_FOLDER, "*.jpg"))
+            existing = [f for f in existing if os.path.getsize(f) > 0]
+            if not existing:
+                raise SystemExit(f"--no-gen: no .png/.jpg image found in {IMAGE_FOLDER}")
+            print(f"Using existing background: {max(existing, key=os.path.getctime)}")
+        else:
+            clear_old_images()
+            generate_image()
         run_video_pipeline(topic)
 
     if not args.skip_upload:

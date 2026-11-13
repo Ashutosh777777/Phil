@@ -595,8 +595,8 @@ def start_rag_server():
 
     _server_process = subprocess.Popen(
         ["uvicorn", "rag_service:app", "--host", "0.0.0.0", "--port", "8000"],
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL
+        # stdout=subprocess.DEVNULL,
+        # stderr=subprocess.DEVNULL
     )
 
     # Register cleanup so the server always shuts down on exit
